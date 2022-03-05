@@ -12,7 +12,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-05T16:31:39.061Z,64.824,-148.7396,7.6,1.7,ml,,,,0.41,ak,ak0222y43vhu,2022-03-05T16:36:13.190Z,"30 km NE of Four Mile Road, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-03-05T16:04:31.970Z,19.406665802002,-155.592834472656,38.6599998474121,2.02,ml,38,62,,0.200000003,hv,hv72938977,2022-03-05T16:10:03.670Z,"25 km NNW of Pāhala, Hawaii",earthquake,0.78,0.829999983,0.31,4,automatic,hv,hv
 2022-03-05T16:04:19.510Z,33.9776667,-116.5498333,8.66,1.12,ml,30,108,0.1016,0.21,ci,ci40200176,2022-03-05T16:14:59.930Z,"5km WNW of Desert Hot Springs, CA",earthquake,0.28,1.09,0.104,27,automatic,ci,ci
-2022-03-05T16:00:35.010Z,38.8156662,-122.7963333,2.55,1.2,md,31,30,0.007729,0.02,nc,nc73701681,2022-03-05T17:29:19.658Z,"6km NW of The Geysers, CA",earthquake,0.2,0.37,0.05,6,automatic,nc,nc
+2022-03-05T16:00:35.010Z,38.8156662,-122.7963333,2.55,1.2,md,31,30,0.007729,0.02,nc,nc73701681,2022-03-05T17:41:10.738Z,"6km NW of The Geysers, CA",earthquake,0.2,0.37,0.05,6,automatic,nc,nc
 2022-03-05T15:52:16.974Z,63.5865,-147.2911,7.9,1.6,ml,,,,0.62,ak,ak0222y3mw8l,2022-03-05T16:04:19.875Z,"82 km ESE of Denali Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-03-05T15:52:11.320Z,19.179666519165,-155.470169067383,30.2299995422363,2.3,ml,47,91,,0.119999997,hv,hv72938972,2022-03-05T15:57:41.960Z,"2 km SSE of Pāhala, Hawaii",earthquake,0.43,0.620000005,0.03,4,automatic,hv,hv
 2022-03-05T15:49:07.228Z,39.2433,-117.631,11.1,1.9,ml,15,149.89,0.413,0.2689,nn,nn00834947,2022-03-05T15:52:45.987Z,"48 km W of Kingston, Nevada",earthquake,,0.8,0.22,9,automatic,nn,nn
@@ -234,7 +234,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-04T17:56:29.550Z,46.99366666666667,-120.36183333333334,-0.93,1.71,ml,16,92,0.143,0.33,uw,uw61820151,2022-03-04T19:53:16.150Z,"Washington",explosion,0.88,31.61,0.13942716165242108,12,reviewed,uw,uw
 2022-03-04T17:55:37.910Z,32.0947,50.1885,11.63,4.4,mb,,89,4.794,0.64,us,us6000h23l,2022-03-04T20:22:50.040Z,"39 km WSW of Fārsān, Iran",earthquake,9.9,3,0.061,80,reviewed,us,us
 2022-03-04T17:54:52.558Z,60.3166,-152.0591,87.9,1.6,ml,,,,0.5,ak,ak0222whax3i,2022-03-04T17:59:05.768Z,"36 km NW of Ninilchik, Alaska",earthquake,,1.1,,,automatic,ak,ak
-2022-03-04T17:49:27.400Z,45.2926667,-112.0495,-2,1.17,ml,12,76,0.06,0.12,mb,mb80539669,2022-03-04T19:06:13.580Z,"5 km SE of Alder, Montana",quarry blast,0.41,31.61,0.144,7,reviewed,mb,mb
-2022-03-04T17:46:25.887Z,61.1649,-140.5173,20.5,1.4,ml,,,,0.53,ak,ak0222wh95bw,2022-03-04T17:59:05.624Z,"132 km ESE of McCarthy, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2022-03-04T17:45:20.320Z,19.1831665039062,-155.457000732422,34.9700012207031,1.96,ml,47,120,,0.129999995,hv,hv72937677,2022-03-04T17:50:50.450Z,"3 km SE of Pāhala, Hawaii",earthquake,0.6,0.75999999,5.08,3,automatic,hv,hv
-2022-03-04T17:41:47.080Z,38.8223333,-122.8043333,3.82,0.42,md,28,42,0.004608,0.05,nc,nc73701141,2022-03-04T20:31:11.061Z,"6km NW of The Geysers, CA",earthquake,0.26,0.4,0.152,3,reviewed,nc,nc
