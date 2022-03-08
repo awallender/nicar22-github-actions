@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-03-08T13:26:57.900Z,38.7958336,-122.7496643,1.94,0.86,md,25,93,0.009194,0.04,nc,nc73702831,2022-03-08T13:34:10.680Z,"2km NNE of The Geysers, CA",earthquake,0.24,0.41,0.2,6,automatic,nc,nc
+2022-03-08T13:43:19.210Z,38.7946663,-122.7646637,0.87,1.32,md,22,67,0.007097,0.05,nc,nc73702836,2022-03-08T13:51:10.766Z,"2km NNW of The Geysers, CA",earthquake,0.23,0.37,0.09,6,automatic,nc,nc
+2022-03-08T13:26:57.900Z,38.7958336,-122.7496643,1.94,0.86,md,25,93,0.009194,0.04,nc,nc73702831,2022-03-08T13:49:13.755Z,"2km NNE of The Geysers, CA",earthquake,0.24,0.41,0.2,6,automatic,nc,nc
 2022-03-08T13:12:14.083Z,63.5196,-150.8408,10.5,1.5,ml,,,,0.86,ak,ak022330thme,2022-03-08T13:24:13.251Z,"Central Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-03-08T13:00:45.792Z,38.2948,-119.0461,0,0.8,ml,9,197.42,0.372,0.1234,nn,nn00835066,2022-03-08T13:04:56.206Z,"California-Nevada border region",earthquake,,46.7,0.23,5,automatic,nn,nn
 2022-03-08T12:54:20.620Z,19.2066669464111,-155.432830810547,33.0999984741211,2.19,ml,48,135,,0.109999999,hv,hv72942947,2022-03-08T12:59:50.800Z,"4 km E of Pāhala, Hawaii",earthquake,0.52,0.670000017,0.09,4,automatic,hv,hv
@@ -10,7 +11,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-08T12:34:12.000Z,19.1826667785645,-155.474334716797,31.8999996185303,2.03999996,md,46,85,,0.119999997,hv,hv72942922,2022-03-08T12:37:31.610Z,"2 km SSE of Pāhala, Hawaii",earthquake,0.5,0.879999995,0.720000029,17,automatic,hv,hv
 2022-03-08T12:27:36.670Z,17.9045,-66.8516666666667,12.25,2.51,md,23,197,,0.2,pr,pr71339488,2022-03-08T13:03:20.460Z,"9 km SSE of Maria Antonia, Puerto Rico",earthquake,0.51,0.48,0.096724824972644,6,reviewed,pr,pr
 2022-03-08T12:18:48.599Z,63.0602,-151.3546,0,1.8,ml,,,,0.85,ak,ak0223309exo,2022-03-08T12:24:30.098Z,"56 km SSE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2022-03-08T12:11:56.862Z,63.4222,-151.4298,2,1.1,ml,,,,0.69,ak,ak0223307xly,2022-03-08T12:13:47.957Z,"Central Alaska",earthquake,,0.6,,,automatic,ak,ak
+2022-03-08T12:11:56.862Z,63.4222,-151.4298,2,1.1,ml,,,,0.69,ak,ak0223307xly,2022-03-08T12:13:47.957Z,"19 km SE of Denali National Park, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-03-08T12:09:15.950Z,19.2779998779297,-155.498336791992,5.3899998664856,1.71000004,md,31,75,,0.25,hv,hv72942877,2022-03-08T12:12:16.570Z,"8 km NNW of Pāhala, Hawaii",earthquake,0.49,1.48000002,1.02999997,8,automatic,hv,hv
 2022-03-08T12:06:23.650Z,17.9281666666667,-66.859,16.74,2.22,md,15,187,,0.19,pr,pr71339478,2022-03-08T13:33:21.280Z,"6 km SSE of Maria Antonia, Puerto Rico",earthquake,0.61,0.74,0.131619200597953,8,reviewed,pr,pr
 2022-03-08T12:03:11.420Z,19.4875,-155.6545,2.92,0.68,md,13,106,,0.1,hv,hv72942867,2022-03-08T12:21:51.810Z,"22 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.33,0.94,0.165261610223522,6,reviewed,hv,hv
@@ -67,7 +68,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-08T07:10:49.400Z,17.9593333333333,-66.7211666666667,7.43,2.1,md,3,224,,0.1,pr,pr71339448,2022-03-08T07:21:05.170Z,"3 km S of Tallaboa, Puerto Rico",earthquake,2.22,0.56,,1,reviewed,pr,pr
 2022-03-08T07:00:48.620Z,33.2118333,-115.5561667,7.34,1.51,ml,10,251,0.06051,0.23,ci,ci40202016,2022-03-08T07:04:25.572Z,"5km SW of Niland, CA",earthquake,1.49,1.37,0.242,28,automatic,ci,ci
 2022-03-08T06:59:43.560Z,32.8178333,-115.5993333,5.45,1.32,ml,19,62,0.08952,0.17,ci,ci40202008,2022-03-08T07:03:22.767Z,"4km SW of Imperial, CA",earthquake,0.38,0.8,0.212,17,automatic,ci,ci
-2022-03-08T06:52:31.570Z,41.5268333,-121.8665,9.19,1.89,md,31,60,0.1645,0.15,nc,nc73702731,2022-03-08T11:53:17.086Z,"8km SSE of Tennant, CA",earthquake,0.25,0.96,0.189,24,reviewed,nc,nc
+2022-03-08T06:52:31.570Z,41.5268333,-121.8665,9.19,1.89,md,31,60,0.1645,0.15,nc,nc73702731,2022-03-08T13:43:10.725Z,"8km SSE of Tennant, CA",earthquake,0.25,0.96,0.189,24,reviewed,nc,nc
 2022-03-08T06:52:17.850Z,19.2193336486816,-155.377502441406,31.3700008392334,2.09,ml,44,156,,0.119999997,hv,hv72942447,2022-03-08T06:57:47.260Z,"10 km E of Pāhala, Hawaii",earthquake,0.6,0.75999999,0.36,4,automatic,hv,hv
 2022-03-08T06:40:32.460Z,19.2134990692139,-155.370834350586,33.5200004577637,1.88,md,40,162,,0.119999997,hv,hv72942427,2022-03-08T06:43:48.200Z,"11 km E of Pāhala, Hawaii",earthquake,0.63,0.810000002,0.720000029,8,automatic,hv,hv
 2022-03-08T06:31:34.130Z,36.48566667,-98.73266667,8.25,1.24,ml,46,47,0.01079788109,0.18,ok,ok2022ercc,2022-03-08T13:25:37.858Z,"16 km SE of Waynoka, Oklahoma",earthquake,,0.4,0.22,15,reviewed,ok,ok
@@ -230,6 +231,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-07T15:37:47.020Z,33.949,-116.7226667,15.84,1.48,ml,41,51,0.062,0.09,ci,ci40201312,2022-03-07T22:02:57.600Z,"7km ENE of Cabazon, CA",earthquake,0.15,0.35,0.182,26,reviewed,ci,ci
 2022-03-07T15:33:23.860Z,38.8344994,-122.8099976,2,1.18,md,12,73,0.01109,0.02,nc,nc73702471,2022-03-07T16:25:10.976Z,"8km W of Cobb, CA",earthquake,0.33,0.82,,1,automatic,nc,nc
 2022-03-07T15:30:07.920Z,33.4903333,-116.7505,6.45,0.28,ml,10,139,0.06979,0.05,ci,ci40201296,2022-03-07T21:54:20.687Z,"10km SW of Anza, CA",earthquake,0.2,0.47,0.012,3,reviewed,ci,ci
+2022-03-07T15:29:35.939Z,34.6645,-97.62716667,15.64,1.6,ml,58,92,0.1808645082,0.28,ok,ok2022epyj,2022-03-08T13:50:17.847Z,"13 km WNW of Foster, Oklahoma",earthquake,,1.1,0.23,26,reviewed,ok,ok
 2022-03-07T15:23:33.490Z,19.2236671447754,-155.369171142578,30.6000003814697,2.07,ml,44,156,,0.150000006,hv,hv72941537,2022-03-08T01:50:24.340Z,"11 km E of Pāhala, Hawaii",earthquake,0.52,0.790000021,0.1,3,reviewed,hv,hv
 2022-03-07T15:22:06.382Z,38.1317,-118.0268,8.8,1.1,ml,12,150.77,0.054,0.0976,nn,nn00835006,2022-03-08T02:37:49.904Z,"29 km SSE of Mina, Nevada",earthquake,,1.6,0.42,5,reviewed,nn,nn
 2022-03-07T15:20:34.550Z,19.2321666666667,-155.368,32.76,2.69,ml,51,154,,0.12,hv,hv72941532,2022-03-08T00:35:56.310Z,"12 km ENE of Pāhala, Hawaii",earthquake,0.56,0.61,0.175088175161737,33,reviewed,hv,hv
