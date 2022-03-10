@@ -1719,3 +1719,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-10T14:54:04.600Z,38.7789993,-122.716835,1.89,2.04,md,34.0,72.0,0.01611,0.07,nc,nc73703786,2022-03-10T14:55:40.864Z,"2km WNW of Anderson Springs, CA",earthquake,0.27,0.4,0.12,10.0,automatic,nc,nc
 2022-03-10T14:53:32.770Z,35.5115013,-118.3893356,8.28,1.29,ml,14.0,100.0,0.1858,0.1,ci,ci40204256,2022-03-10T14:55:37.614Z,"13km SE of Bodfish, CA",earthquake,0.4,1.5,0.123,5.0,automatic,ci,ci
 2022-03-10T14:37:08.820Z,18.0171666666667,-66.9626666666667,4.25,2.41,md,3.0,152.0,,0.05,pr,pr71339728,2022-03-10T14:50:25.980Z,"3 km SW of Liborio Negron Torres, Puerto Rico",earthquake,5.09,7.59,0.195727103697157,3.0,reviewed,pr,pr
+2022-03-10T15:12:53.840Z,33.0031667,-116.4823333,8.36,0.68,ml,16.0,100.0,0.09288,0.23,ci,ci40204272,2022-03-10T15:16:32.217Z,"14km SE of Julian, CA",earthquake,0.47,1.57,0.064,6.0,automatic,ci,ci
+2022-03-10T15:11:16.148Z,36.08183289,-98.43531036,7.109494209,2.35,ml,45.0,62.91720581,0.1053251177,0.4654164918,ok,ok2022evkh,2022-03-10T15:16:24.160Z,"11 km WSW of Okeene, Oklahoma",earthquake,1.870213629,1.954826538,,34.0,automatic,ok,ok
+2022-03-10T15:03:26.502Z,64.2821,-148.001,8.5,1.5,ml,,,,0.56,ak,ak02236d15cb,2022-03-10T15:06:46.926Z,"57 km E of Clear, Alaska, Alaska",earthquake,,0.3,,,automatic,ak,ak
