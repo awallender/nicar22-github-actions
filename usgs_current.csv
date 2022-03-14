@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-03-14T03:54:03.390Z,38.7833328,-122.7419968,0.29,1.13,md,17,80,0.004121,0.04,nc,nc73705246,2022-03-14T03:55:38.194Z,"1km ENE of The Geysers, CA",earthquake,0.22,0.4,0.17,5,automatic,nc,nc
+2022-03-14T03:46:28.230Z,38.8341675,-122.8176651,0.93,0.36,md,10,59,0.01228,0.02,nc,nc73705241,2022-03-14T03:48:02.949Z,"8km NW of The Geysers, CA",earthquake,0.25,0.89,,1,automatic,nc,nc
 2022-03-14T03:08:47.784Z,0.0453,126.7332,54.18,4.7,mb,,68,0.96,0.8,us,us6000h4cc,2022-03-14T03:44:03.040Z,"109 km SW of Ternate, Indonesia",earthquake,3.9,5.4,0.077,52,reviewed,us,us
 2022-03-14T02:54:47.560Z,38.8371658,-122.8239975,1.91,1.21,md,25,63,0.009085,0.02,nc,nc73705236,2022-03-14T03:38:10.850Z,"9km NW of The Geysers, CA",earthquake,0.2,0.4,0.09,6,automatic,nc,nc
 2022-03-14T02:52:12.080Z,35.8828333,-117.6891667,2.79,0.53,ml,9,78,0.07216,0.11,ci,ci40207136,2022-03-14T02:55:43.260Z,"20km ESE of Little Lake, CA",earthquake,0.36,0.5,0.058,5,automatic,ci,ci
@@ -30,13 +32,13 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-13T22:35:03.200Z,36.5769997,-121.1719971,5.85,1.86,md,21,121,0.01202,0.05,nc,nc73705161,2022-03-14T00:39:16.717Z,"6km NNW of Pinnacles, CA",earthquake,0.27,0.43,0.11,16,automatic,nc,nc
 2022-03-13T22:16:50.428Z,14.0764,119.3572,10,4.7,mb,,119,9.446,0.47,us,us6000h4b9,2022-03-13T23:00:53.040Z,"77 km WNW of Cabra, Philippines",earthquake,8.9,1.9,0.099,31,reviewed,us,us
 2022-03-13T22:13:38.223Z,-33.3158,-70.4471,104.99,3.7,mb,,60,0.129,0.27,us,us6000h4as,2022-03-14T03:21:38.384Z,"19 km E of Chicureo Abajo, Chile",earthquake,4.4,2.9,0.292,3,reviewed,us,us
-2022-03-13T22:07:44.017Z,-26.4999,28.8641,20.74,4.8,mb,,75,3.296,0.8,us,us6000h4ar,2022-03-14T03:43:54.212Z,"20 km W of eMbalenhle, South Africa",earthquake,9.2,4.9,0.111,25,reviewed,us,us
+2022-03-13T22:07:44.017Z,-26.4999,28.8641,20.74,4.8,mb,,75,3.296,0.8,us,us6000h4ar,2022-03-14T03:51:41.627Z,"20 km W of eMbalenhle, South Africa",earthquake,9.2,4.9,0.111,25,reviewed,us,us
 2022-03-13T22:07:21.210Z,17.9296666666667,-66.9691666666667,10.72,2.27,md,5,232,,0.1,pr,pr71340083,2022-03-13T23:11:53.190Z,"7 km SW of Guánica, Puerto Rico",earthquake,0.66,0.66,0.055385550900557,4,reviewed,pr,pr
 2022-03-13T21:38:44.768Z,-0.6232,98.5481,35,5.5,mww,,141,2.147,0.9,us,us6000h49u,2022-03-13T23:41:59.983Z,"174 km W of Pariaman, Indonesia",earthquake,7,2,0.098,10,reviewed,us,us
 2022-03-13T21:33:36.010Z,33.1935,-115.6346667,9.79,2.09,ml,39,59,0.08545,0.19,ci,ci40206960,2022-03-13T21:44:23.280Z,"12km WSW of Niland, CA",earthquake,0.33,0.82,0.199,27,automatic,ci,ci
 2022-03-13T21:28:27.661Z,-32.946,-179.1599,404.33,4.2,mb,,179,5.05,0.65,us,us6000h49p,2022-03-14T03:13:42.040Z,"south of the Kermadec Islands",earthquake,15.2,10.7,0.153,12,reviewed,us,us
 2022-03-13T21:09:21.502Z,-0.6581,98.6126,21.8,6.7,mww,,51,2.207,1.09,us,us6000h48e,2022-03-14T03:43:38.602Z,"167 km W of Pariaman, Indonesia",earthquake,6.7,3.2,0.062,25,reviewed,us,us
-2022-03-13T21:05:49.814Z,14.0757,119.4577,11,6.4,mww,,51,8.83,0.76,us,us6000h48d,2022-03-14T03:35:44.612Z,"67 km WNW of Cabra, Philippines",earthquake,5.1,1.5,0.051,37,reviewed,us,us
+2022-03-13T21:05:49.814Z,14.0757,119.4577,11,6.4,mww,,51,8.83,0.76,us,us6000h48d,2022-03-14T03:54:48.670Z,"67 km WNW of Cabra, Philippines",earthquake,5.1,1.5,0.051,37,reviewed,us,us
 2022-03-13T20:57:51.027Z,62.0304,-150.2894,47.8,1.6,ml,,,,0.22,ak,ak0223bexzem,2022-03-13T21:14:41.739Z,"27 km WSW of Susitna North, Alaska",earthquake,,2.4,,,automatic,ak,ak
 2022-03-13T20:56:52.690Z,38.8336678,-122.8075027,2.5,1.42,md,16,63,0.01045,0.01,nc,nc73705151,2022-03-14T00:14:17.555Z,"7km W of Cobb, CA",earthquake,0.28,0.8,,1,automatic,nc,nc
 2022-03-13T20:51:30.170Z,36.5866661,-121.1894989,6.16,4.12,mw,60,65,0.0153,0.18,nc,nc73705146,2022-03-14T03:18:40.917Z,"7km NW of Pinnacles, CA",earthquake,0.26,0.68,,3,reviewed,nc,nc
@@ -173,5 +175,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-13T04:00:54.436Z,31.5326227,-104.0681736,7.468383789,3.5,ml,10,70,0.01227214981,0.2,tx,tx2022faar,2022-03-13T04:23:08.163Z,"35 km NW of Toyah, Texas",earthquake,1.171791515,1.004125868,0.1,6,reviewed,tx,tx
 2022-03-13T03:59:54.300Z,33.4158333,-116.4215,13.69,0.74,ml,25,78,0.1073,0.2,ci,ci40206488,2022-03-13T04:03:27.598Z,"18km NNW of Borrego Springs, CA",earthquake,0.34,0.7,0.181,17,automatic,ci,ci
 2022-03-13T03:57:41.164Z,39.9775,-119.599,5.3,1.7,ml,11,125.91,0.176,0.2258,nn,nn00835281,2022-03-13T04:00:45.371Z,"3 km N of Sutcliffe, Nevada",earthquake,,1.4,0.26,8,automatic,nn,nn
-2022-03-13T03:55:49.399Z,36.86704636,-97.91603851,4.495502949,1.84,ml,10,155.9997711,0.04785971716,0.2292190997,ok,ok2022faam,2022-03-13T03:58:49.396Z,"1 km SSE of Wakita, Oklahoma",earthquake,5.243528118,3.201345589,,7,automatic,ok,ok
-2022-03-13T03:52:18.900Z,35.6641667,-117.4898333,5.6,1.18,ml,16,150,0.0807,0.18,ci,ci40206480,2022-03-13T03:55:55.836Z,"14km SW of Searles Valley, CA",earthquake,0.58,1.55,0.217,14,automatic,ci,ci
