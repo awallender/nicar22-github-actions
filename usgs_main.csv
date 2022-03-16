@@ -3282,3 +3282,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-16T13:01:00.260Z,36.0940018,-120.6688309,5.43,1.12,md,10.0,179.0,0.06399,0.08,nc,nc73706391,2022-03-16T13:11:11.683Z,"23km ENE of San Ardo, CA",earthquake,0.8,0.97,0.16,4.0,automatic,nc,nc
 2022-03-15T18:02:46.679Z,34.50166667,-97.21116667,0.0,1.46,ml,23.0,102.0,0.1349735136,0.51,ok,ok2022fetl,2022-03-16T13:08:14.981Z,"8 km W of Davis, Oklahoma",quarry blast,,1.0,0.33,11.0,reviewed,ok,ok
 2022-03-15T17:53:09.410Z,36.2345,-95.83933333,0.0,1.41,ml,59.0,119.0,0.3257360795,0.43,ok,ok2022fetd,2022-03-16T13:14:33.641Z,"4 km SSE of Owasso, Oklahoma",quarry blast,,0.4,0.21,25.0,reviewed,ok,ok
+2022-03-16T06:02:20.940Z,33.3771667,-116.875,5.5,0.59,ml,16.0,120.0,0.02567,0.17,ci,ci39969119,2022-03-16T13:16:38.660Z,"3km NNW of Palomar Observatory, CA",earthquake,0.75,1.26,0.543,3.0,reviewed,ci,ci
+2022-03-15T18:28:44.090Z,35.7345,-97.76616667,4.66,1.1,ml,57.0,60.0,0.1493706884,0.29,ok,ok2022feuh,2022-03-16T13:24:51.684Z,"10 km N of Piedmont, Oklahoma",earthquake,,0.7,0.19,16.0,reviewed,ok,ok
