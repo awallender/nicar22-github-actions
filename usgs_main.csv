@@ -3800,3 +3800,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-18T09:04:12.730Z,31.66,-104.3999,5.0,3.1,ml,,69.0,0.086,0.26,us,us6000h5n6,2022-03-18T09:19:55.040Z,"57 km S of Whites City, New Mexico",earthquake,0.9,1.6,0.077,80.0,reviewed,us,us
 2022-03-18T09:27:15.960Z,36.0976667,-117.8945,5.48,2.22,ml,27.0,62.0,0.03775,0.17,ci,ci39970959,2022-03-18T09:38:24.880Z,"8km NE of Coso Junction, CA",earthquake,0.25,0.72,0.162,25.0,automatic,ci,ci
 2022-03-18T09:25:44.927Z,38.526,-119.5381,1.2,1.2,ml,9.0,178.33,0.062,0.1811,nn,nn00835589,2022-03-18T09:29:10.428Z,"5 km SSW of Coleville, California",earthquake,,0.7,0.17,7.0,automatic,nn,nn
+2022-03-18T09:44:43.270Z,19.1984996795654,-155.401992797852,31.3099994659424,3.49000001,md,52.0,159.0,,0.140000001,hv,hv72954502,2022-03-18T09:47:53.740Z,"8 km E of Pāhala, Hawaii",earthquake,0.46,0.689999998,0.400000006,45.0,automatic,hv,hv
+2022-03-18T09:38:41.480Z,59.3835,-151.2217,20.0,1.6,ml,,,,0.81,ak,ak0223jhyuvo,2022-03-18T09:40:47.198Z,"23 km S of Halibut Cove, Alaska",earthquake,,0.2,,,automatic,ak,ak
