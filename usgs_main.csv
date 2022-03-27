@@ -6301,3 +6301,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-27T06:58:27.131Z,63.3535,-151.9878,9.0,1.8,ml,,,,0.9,ak,ak0223yc4xqo,2022-03-27T07:05:06.661Z,"24 km SSW of Denali National Park, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-03-27T06:51:36.756Z,60.2528,-141.1615,7.4,1.2,ml,,,,0.56,ak,ak0223yc3gct,2022-03-27T07:04:02.808Z,"112 km NW of Yakutat, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-03-27T06:14:31.384Z,31.6766,-104.4007,5.0,2.5,ml,,71.0,0.085,0.76,us,us7000gxm7,2022-03-27T06:50:33.040Z,"55 km S of Whites City, New Mexico",earthquake,1.9,2.0,0.069,50.0,reviewed,us,us
+2022-03-27T07:31:39.330Z,19.1723327636719,-155.471328735352,31.3199996948242,2.37,ml,42.0,160.0,,0.129999995,hv,hv72963487,2022-03-27T07:37:09.380Z,"3 km SSE of Pāhala, Hawaii",earthquake,0.7,0.829999983,4.26,8.0,automatic,hv,hv
