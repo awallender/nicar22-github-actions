@@ -1,9 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-03-28T19:29:24.860Z,37.9795,-122.3343333,8.81,0.83,md,21,62,0.02879,0.05,nc,nc73711616,2022-03-28T19:39:26.220Z,"2km NNW of Rollingwood, CA",earthquake,0.23,0.53,0.131,13,reviewed,nc,nc
+2022-03-28T19:29:24.860Z,37.9795,-122.3343333,8.81,0.83,md,21,62,0.02879,0.05,nc,nc73711616,2022-03-28T19:39:27.644Z,"2km NNW of Rollingwood, CA",earthquake,0.23,0.53,0.131,13,reviewed,nc,nc
 2022-03-28T19:22:56.317Z,60.4228,-144.4818,20.1,1.8,ml,,,,0.4,ak,ak02240779k2,2022-03-28T19:29:48.317Z,"71 km ESE of Cordova, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-03-28T19:00:09.580Z,35.6395,-117.4506667,6.78,2.05,ml,32,73,0.05371,0.13,ci,ci39980759,2022-03-28T19:26:55.130Z,"15km SSW of Searles Valley, CA",earthquake,0.17,0.4,0.128,26,reviewed,ci,ci
 2022-03-28T18:47:09.030Z,34.947,-119.4373333,10.09,1.3,ml,13,105,0.02104,0.16,ci,ci39980743,2022-03-28T19:28:35.955Z,"13km SSW of Maricopa, CA",earthquake,0.37,0.61,0.131,6,reviewed,ci,ci
-2022-03-28T18:43:40.441Z,17.1685,-84.6284,10,4.8,mb,,28,3.328,0.8,us,us7000gxwl,2022-03-28T19:33:48.724Z,"152 km ENE of Savannah Bight, Honduras",earthquake,6.8,1.9,0.035,257,reviewed,us,us
+2022-03-28T18:43:40.441Z,17.1685,-84.6284,10,4.8,mb,,28,3.328,0.8,us,us7000gxwl,2022-03-28T19:39:41.094Z,"152 km ENE of Savannah Bight, Honduras",earthquake,6.8,1.9,0.035,257,reviewed,us,us
 2022-03-28T18:23:22.090Z,39.2225,-123.6336667,4.43,1.81,md,17,107,0.02176,0.09,nc,nc73711596,2022-03-28T19:25:11.532Z,"12km ENE of Navarro Head, CA",earthquake,0.19,0.36,0.128,18,reviewed,nc,nc
 2022-03-28T18:20:06.712Z,37.1658,-117.3831,0,2.1,ml,16,171.56,0.548,0.2653,nn,nn00836198,2022-03-28T18:23:44.041Z,"California-Nevada border region",earthquake,,39.5,1,12,automatic,nn,nn
 2022-03-28T18:19:58.300Z,33.252,-116.0011667,3.88,1.36,ml,44,69,0.03082,0.2,ci,ci39980735,2022-03-28T19:34:48.850Z,"7km SW of Salton City, CA",earthquake,0.17,0.27,0.166,14,reviewed,ci,ci
@@ -205,4 +205,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-27T20:07:17.696Z,64.4064,-146.8835,7.6,0.9,ml,,,,0.96,ak,ak0223yk61y5,2022-03-27T20:19:42.109Z,"13 km S of Salcha, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-03-27T20:01:34.190Z,32.4415,-115.1998333,16.24,2.28,ml,16,179,0.0916,0.19,ci,ci39980023,2022-03-28T16:51:20.874Z,"10km N of Delta, B.C., MX",earthquake,0.49,0.81,0.077,7,reviewed,ci,ci
 2022-03-27T19:49:20.691Z,38.1288,-118.038,1.5,1.1,ml,10,172.81,0.063,0.1749,nn,nn00836157,2022-03-27T19:53:16.833Z,"29 km SSE of Mina, Nevada",earthquake,,2.8,0.27,5,automatic,nn,nn
-2022-03-27T19:43:27.947Z,38.5157,-119.5137,8.7,1.8,ml,8,127.03,0.06,0.1405,nn,nn00836156,2022-03-28T18:14:40.586Z,"3 km W of Walker, California",earthquake,,1.5,0.41,5,reviewed,nn,nn
