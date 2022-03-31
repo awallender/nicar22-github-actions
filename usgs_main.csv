@@ -7434,3 +7434,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-31T03:11:44.384Z,61.7673,-148.1192,33.0,1.4,ml,,,,0.55,ak,ak02244w7zk6,2022-03-31T03:14:01.390Z,"18 km E of Chickaloon, Alaska",earthquake,,0.1,,,automatic,ak,ak
 2022-03-31T03:06:47.708Z,-22.3941,170.1236,10.0,5.7,mww,,80.0,2.485,0.66,us,us7000gyln,2022-03-31T03:25:38.371Z,"249 km ESE of Tadine, New Caledonia",earthquake,7.0,1.8,0.098,10.0,reviewed,us,us
 2022-03-31T03:04:06.529Z,61.0741,-150.5177,19.3,1.5,ml,,,,0.86,ak,ak02244w6emd,2022-03-31T03:06:44.852Z,"19 km NNE of Point Possession, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2022-03-31T03:50:19.447Z,61.7666,-150.0572,46.1,1.2,ml,,,,0.43,ak,ak02244wgak8,2022-03-31T03:51:48.654Z,"2 km NNW of Willow, Alaska",earthquake,,2.4,,,automatic,ak,ak
