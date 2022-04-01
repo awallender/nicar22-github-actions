@@ -7839,3 +7839,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-01T12:50:36.480Z,35.688,-117.4486667,4.74,0.8,ml,10.0,177.0,0.1019,0.12,ci,ci39983591,2022-04-01T12:54:41.810Z,"10km SSW of Searles Valley, CA",earthquake,0.51,0.8,0.167,8.0,automatic,ci,ci
 2022-04-01T12:50:20.947Z,61.4883,-149.9755,19.8,2.6,ml,,,,0.74,ak,ak02246pcjo2,2022-04-01T13:02:39.040Z,"3 km SSW of Big Lake, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-04-01T12:11:07.940Z,17.9535,-66.8381666666667,15.64,2.45,md,37.0,173.0,,0.27,pr,pr71342928,2022-04-01T12:48:21.280Z,"4 km SSW of Indios, Puerto Rico",earthquake,0.56,0.45,0.15878440183723,20.0,reviewed,pr,pr
+2022-04-01T12:45:43.570Z,44.2811667,-115.0706667,5.77,1.43,ml,7.0,126.0,0.861,0.3,mb,mb80541914,2022-04-01T13:53:59.090Z,"12 km NW of Stanley, Idaho",earthquake,0.92,5.02,0.24,5.0,reviewed,mb,mb
