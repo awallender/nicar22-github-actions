@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2022-04-02T10:54:43.070Z,35.881,-117.6916667,9.7,0.59,ml,9,84,0.0747,0.06,ci,ci39984375,2022-04-02T10:58:19.277Z,"20km ESE of Little Lake, CA",earthquake,0.22,0.63,0.075,5,automatic,ci,ci
-2022-04-02T10:45:57.776Z,-22.6654,170.5008,10,5.6,mww,,108,2.822,0.85,us,us7000gz79,2022-04-02T11:15:17.040Z,"297 km ESE of Tadine, New Caledonia",earthquake,8.1,1.9,0.06,27,reviewed,us,us
+2022-04-02T10:45:57.776Z,-22.6654,170.5008,10,5.6,mww,,108,2.822,0.85,us,us7000gz79,2022-04-02T11:16:41.947Z,"297 km ESE of Tadine, New Caledonia",earthquake,8.1,1.9,0.06,27,reviewed,us,us
 2022-04-02T10:45:33.918Z,62.543,-149.1858,15.1,1.3,ml,,,,0.6,ak,ak02248bnzbj,2022-04-02T10:48:01.566Z,"48 km ENE of Chase, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-04-02T10:44:10.777Z,63.2674,-150.4374,32.2,1.8,ml,,,,1.4,ak,ak02248bnpth,2022-04-02T10:50:13.593Z,"71 km ESE of Denali National Park, Alaska",earthquake,,1.9,,,automatic,ak,ak
 2022-04-02T10:39:47.201Z,57.6521,-154.7758,31.9,1.9,ml,,,,0.42,ak,ak02248bmq1s,2022-04-02T10:41:19.452Z,"21 km WNW of Karluk, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -249,6 +249,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-01T11:37:45.919Z,62.3568,-151.6458,94.6,1.6,ml,,,,0.75,ak,ak02246oodqk,2022-04-01T11:41:11.946Z,"42 km NNW of Skwentna, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-04-01T11:34:31.115Z,38.1708,-117.8881,12.4,3.5,mw,20,59.52,0.065,0.1117,nn,nn00836469,2022-04-02T02:38:49.884Z,"31 km SE of Mina, Nevada",earthquake,,0.6,,,reviewed,nn,nn
 2022-04-01T11:30:19.093Z,62.4737,-149.066,41.9,1.4,ml,,,,0.82,ak,ak02246omtiv,2022-04-01T11:50:40.974Z,"53 km E of Chase, Alaska",earthquake,,1.7,,,automatic,ak,ak
-2022-04-01T11:28:16.070Z,17.9503333333333,-66.885,11.99,2.29,md,7,212,,0.18,pr,pr71342913,2022-04-01T11:57:46.790Z,"3 km S of Maria Antonia, Puerto Rico",earthquake,0.86,0.8,0.0837960121859271,6,reviewed,pr,pr
-2022-04-01T11:28:04.692Z,-31.4205,-68.0215,111.87,5.2,mww,,38,0.579,0.59,us,us7000gyyg,2022-04-01T22:29:40.290Z,"35 km NE of Caucete, Argentina",earthquake,3.5,4.2,0.054,33,reviewed,us,us
-2022-04-01T11:17:22.240Z,20.048,-155.4575,26.14,2.66,md,46,176,,0.17,hv,hv72969977,2022-04-01T22:14:47.090Z,"3 km SSE of Honoka‘a, Hawaii",earthquake,0.47,0.89,0.142995299250353,19,reviewed,hv,hv
