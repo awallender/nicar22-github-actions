@@ -8514,3 +8514,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-04T04:26:24.834Z,-6.686,129.5079,149.73,4.5,mb,,65.0,2.194,0.78,us,us7000gzhl,2022-04-04T05:00:02.040Z,Banda Sea,earthquake,8.9,8.1,0.108,25.0,reviewed,us,us
 2022-04-04T05:26:02.841Z,63.1655,-148.7578,50.9,2.0,ml,,,,0.51,ak,ak0224bjnd7y,2022-04-04T05:28:02.894Z,"27 km SSE of Cantwell, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-04-04T04:39:42.232Z,36.3592,22.0768,35.27,4.6,mb,,117.0,0.827,0.84,us,us7000gzhn,2022-04-04T05:10:53.040Z,"49 km SSE of Koróni, Greece",earthquake,6.8,6.9,0.061,81.0,reviewed,us,us
+2022-04-04T05:33:16.662Z,59.3152,-153.4716,97.9,1.6,ml,,,,0.16,ak,ak0224bjowco,2022-04-04T05:38:53.169Z,"63 km SE of Pedro Bay, Alaska",earthquake,,1.5,,,automatic,ak,ak
+2022-04-04T05:29:54.130Z,35.7378333,-117.5878333,3.35,0.67,ml,10.0,142.0,0.07814,0.22,ci,ci39985623,2022-04-04T05:33:34.609Z,"15km NNE of Ridgecrest, CA",earthquake,0.64,2.85,0.068,8.0,automatic,ci,ci
