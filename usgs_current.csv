@@ -1,6 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-04-04T05:26:02.841Z,63.1655,-148.7578,50.9,2,ml,,,,0.51,ak,ak0224bjnd7y,2022-04-04T05:28:02.894Z,"27 km SSE of Cantwell, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-04-04T05:00:57.870Z,18.7551670074463,-155.248336791992,8.6899995803833,2.92000008,md,31,279,,0.170000002,hv,hv72972837,2022-04-04T05:04:06.290Z,"49 km SE of Naalehu, Hawaii",earthquake,1.37,1.65999997,0.379999995,13,automatic,hv,hv
 2022-04-04T04:40:03.059Z,62.3994,-149.173,35.6,1.4,ml,,,,0.74,ak,ak0224bj4xpt,2022-04-04T04:42:11.776Z,"44 km NE of Susitna North, Alaska",earthquake,,4.8,,,automatic,ak,ak
+2022-04-04T04:39:42.232Z,36.3592,22.0768,35.27,4.6,mb,,117,0.827,0.84,us,us7000gzhn,2022-04-04T05:10:53.040Z,"49 km SSE of Koróni, Greece",earthquake,6.8,6.9,0.061,81,reviewed,us,us
 2022-04-04T04:35:31.210Z,35.7636667,-117.5733333,6.27,0.88,ml,11,151,0.05556,0.19,ci,ci39985599,2022-04-04T04:38:57.908Z,"15km W of Searles Valley, CA",earthquake,0.49,1.1,0.091,8,automatic,ci,ci
 2022-04-04T04:27:32.250Z,38.7931671,-122.7471695,2.59,0.37,md,10,148,0.01231,0.01,nc,nc73714006,2022-04-04T04:43:16.002Z,"2km NNE of The Geysers, CA",earthquake,0.47,0.9,,1,automatic,nc,nc
 2022-04-04T04:26:24.834Z,-6.686,129.5079,149.73,4.5,mb,,65,2.194,0.78,us,us7000gzhl,2022-04-04T05:00:02.040Z,"Banda Sea",earthquake,8.9,8.1,0.108,25,reviewed,us,us
@@ -221,6 +223,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-03T05:42:34.830Z,35.6776667,-117.4636667,8.86,0.87,ml,13,165,0.09098,0.12,ci,ci39985007,2022-04-03T05:46:05.996Z,"11km SSW of Searles Valley, CA",earthquake,0.58,0.9,0.138,9,automatic,ci,ci
 2022-04-03T05:37:23.710Z,38.833168,-122.8164978,1.88,0.95,md,17,56,0.01097,0.02,nc,nc73713616,2022-04-03T05:55:13.924Z,"8km NW of The Geysers, CA",earthquake,0.24,0.62,0.26,2,automatic,nc,nc
 2022-04-03T05:28:19.141Z,-8.7896,116.9129,158.01,4.3,mb,,86,2.748,1.14,us,us7000gzb2,2022-04-03T05:48:14.040Z,"41 km SE of Labuan Lombok, Indonesia",earthquake,8.2,8.4,0.119,21,reviewed,us,us
-2022-04-03T05:26:11.470Z,38.8428345,-122.8756638,2.35,0.66,md,9,87,0.006187,0.02,nc,nc73713611,2022-04-03T07:11:17.383Z,"13km NW of The Geysers, CA",earthquake,0.47,0.69,0.22,2,automatic,nc,nc
-2022-04-03T05:24:56.181Z,63.2444,-151.0735,0.6,1.5,ml,,,,0.73,ak,ak02249w3pfo,2022-04-03T05:34:11.730Z,"46 km SE of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2022-04-03T05:16:36.954Z,-31.458,-67.0636,114.7,5.1,mww,,35,1.387,0.84,us,us7000gzay,2022-04-03T14:36:48.964Z,"99 km SSE of San Agustín de Valle Fértil, Argentina",earthquake,5.9,3.8,0.043,53,reviewed,us,us
