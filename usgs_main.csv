@@ -8727,3 +8727,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-04T22:02:09.844Z,16.855,-61.275,33.28,4.4,mb,,98.0,0.43,0.7,us,us7000gzpi,2022-04-04T22:29:41.198Z,"49 km NNE of Anse-Bertrand, Guadeloupe",earthquake,3.7,5.6,0.088,37.0,reviewed,us,us
 2022-04-04T16:14:04.111Z,38.1339,-117.9936,11.9,1.1,ml,16.0,123.53,0.027,0.1405,nn,nn00836680,2022-04-04T22:29:58.232Z,"30 km SSE of Mina, Nevada",earthquake,,1.1,0.42,7.0,reviewed,nn,nn
 2022-04-04T22:21:03.610Z,19.4576666666667,-155.558333333333,4.22,0.69,md,15.0,70.0,,0.21,hv,hv72973507,2022-04-04T22:45:19.090Z,"29 km NNW of Pāhala, Hawaii",earthquake,0.39,0.68,0.227843861349847,9.0,reviewed,hv,hv
+2022-04-04T22:44:51.010Z,18.9526672363281,-155.029159545898,62.6100006103516,2.98000002,md,21.0,296.0,,0.349999994,hv,hv72973537,2022-04-04T22:48:11.960Z,"54 km ESE of Pāhala, Hawaii",earthquake,17.2,10.2200003,1.48000002,7.0,automatic,hv,hv
