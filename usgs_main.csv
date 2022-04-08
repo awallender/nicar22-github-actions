@@ -9811,3 +9811,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-08T17:17:28.370Z,38.8426666,-122.8256683,1.92,0.37,md,8.0,125.0,0.008682,0.01,nc,nc73716021,2022-04-08T17:19:01.998Z,"9km WNW of Cobb, CA",earthquake,0.87,1.15,,1.0,automatic,nc,nc
 2022-04-08T17:16:42.360Z,17.9541666666667,-66.9006666666667,12.26,1.88,md,5.0,217.0,,0.09,pr,pr71343788,2022-04-08T17:26:58.060Z,"2 km SSE of Guánica, Puerto Rico",earthquake,0.99,0.48,0.0282855928444494,5.0,reviewed,pr,pr
 2022-04-08T17:16:35.472Z,60.785,-150.075,32.0,1.9,ml,,,,0.72,ak,ak0224icvvvf,2022-04-08T17:20:54.484Z,"27 km WSW of Hope, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-04-08T17:45:06.250Z,35.772,-117.564,8.07,0.8,ml,10.0,165.0,0.05145,0.08,ci,ci39988823,2022-04-08T17:48:43.039Z,"14km W of Searles Valley, CA",earthquake,0.47,0.53,0.17,7.0,automatic,ci,ci
+2022-04-08T13:55:25.670Z,37.504,-118.8621667,5.69,0.95,md,14.0,122.0,0.08981,0.02,nc,nc73715966,2022-04-08T17:45:06.854Z,"17km WSW of Toms Place, CA",earthquake,0.31,1.14,0.128,13.0,reviewed,nc,nc
