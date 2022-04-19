@@ -12801,3 +12801,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-19T15:33:34.560Z,58.9413,-153.917,112.9,2.1,ml,,,,0.79,ak,ak02250iph75,2022-04-19T15:40:19.925Z,"74 km SE of Kokhanok, Alaska",earthquake,,1.0,,,automatic,ak,ak
 2022-04-19T15:04:17.893Z,-31.2468,-68.527,111.43,4.5,mb,,182.0,0.326,0.38,us,us7000h3cb,2022-04-19T15:37:56.040Z,"20 km N of San Martín, Argentina",earthquake,10.3,4.5,0.382,3.0,reviewed,us,us
 2022-04-18T21:53:00.680Z,44.614,-113.0018333,4.7,0.76,ml,8.0,152.0,0.24,0.14,mb,mb80543559,2022-04-19T15:55:32.350Z,"29 km ESE of Leadore, Idaho",earthquake,0.66,8.4,0.084,2.0,reviewed,mb,mb
+2022-04-19T15:49:07.068Z,44.285,11.5571,6.3,4.0,mb,,61.0,0.421,0.42,us,us7000h3ce,2022-04-19T16:13:00.040Z,"2 km N of Fontanelice, Italy",earthquake,4.5,4.6,0.233,7.0,reviewed,us,us
+2022-04-19T11:04:23.510Z,45.651,-111.6991667,2.01,0.14,ml,4.0,170.0,0.073,0.17,mb,mb80543564,2022-04-19T16:02:25.200Z,"8 km SE of Harrison, Montana",earthquake,5.16,7.38,,0.0,reviewed,mb,mb
+2022-04-19T00:56:56.120Z,44.5301667,-112.5055,1.13,0.7,ml,7.0,148.0,0.102,0.14,mb,mb80543569,2022-04-19T16:09:47.790Z,"13 km SSE of Lima, Montana",earthquake,1.04,3.01,0.179,2.0,reviewed,mb,mb
