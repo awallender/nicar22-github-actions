@@ -12794,3 +12794,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-19T00:11:54.460Z,33.5115,-116.7443333,3.83,0.35,ml,22.0,79.0,0.04681,0.1,ci,ci40240672,2022-04-19T15:09:15.747Z,"8km SW of Anza, CA",earthquake,0.18,0.34,0.177,6.0,reviewed,ci,ci
 2022-04-19T00:00:15.320Z,32.3688333,-115.2778333,11.81,1.7,ml,14.0,175.0,0.0555,0.24,ci,ci37496021,2022-04-19T15:15:32.392Z,"8km W of Delta, B.C., MX",earthquake,0.48,0.67,0.083,5.0,reviewed,ci,ci
 2022-04-18T19:03:57.920Z,36.587,-98.7075,8.15,1.16,ml,17.0,89.0,0.03509311353,0.03,ok,ok2022hoyo,2022-04-19T15:09:38.864Z,"14 km SSE of Avard, Oklahoma",earthquake,,0.1,0.21,4.0,reviewed,ok,ok
+2022-04-19T15:48:22.110Z,33.1611667,-116.4358333,11.83,0.94,ml,23.0,112.0,0.1079,0.27,ci,ci40241088,2022-04-19T15:51:55.560Z,"12km SSW of Borrego Springs, CA",earthquake,0.56,1.11,0.225,18.0,automatic,ci,ci
+2022-04-19T15:45:52.140Z,35.6965,-117.5146667,7.57,0.96,ml,8.0,160.0,0.1178,0.08,ci,ci40241080,2022-04-19T15:49:30.475Z,"13km SW of Searles Valley, CA",earthquake,0.55,0.83,0.159,8.0,automatic,ci,ci
+2022-04-19T15:41:05.610Z,38.8126678,-122.739502,2.33,1.18,md,30.0,65.0,0.01985,0.06,nc,nc73720260,2022-04-19T15:51:26.506Z,"2km SW of Cobb, CA",earthquake,0.27,0.54,0.08,7.0,automatic,nc,nc
+2022-04-19T15:34:02.183Z,62.3315,-151.1721,76.6,2.0,ml,,,,0.64,ak,ak02250ipmf9,2022-04-19T15:39:54.975Z,"27 km SW of Petersville, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2022-04-19T15:33:34.560Z,58.9413,-153.917,112.9,2.1,ml,,,,0.79,ak,ak02250iph75,2022-04-19T15:40:19.925Z,"74 km SE of Kokhanok, Alaska",earthquake,,1.0,,,automatic,ak,ak
+2022-04-19T15:04:17.893Z,-31.2468,-68.527,111.43,4.5,mb,,182.0,0.326,0.38,us,us7000h3cb,2022-04-19T15:37:56.040Z,"20 km N of San Martín, Argentina",earthquake,10.3,4.5,0.382,3.0,reviewed,us,us
+2022-04-18T21:53:00.680Z,44.614,-113.0018333,4.7,0.76,ml,8.0,152.0,0.24,0.14,mb,mb80543559,2022-04-19T15:55:32.350Z,"29 km ESE of Leadore, Idaho",earthquake,0.66,8.4,0.084,2.0,reviewed,mb,mb
