@@ -13961,3 +13961,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-23T17:23:04.069Z,61.3111,-150.0639,33.6,1.7,ml,,,,0.46,ak,ak022575ziv7,2022-04-23T17:26:49.381Z,"7 km SW of Point MacKenzie, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-04-23T17:21:26.408Z,17.8549,-66.8199,10.0,2.8,ml,,215.0,0.194,0.65,us,us6000hfvk,2022-04-23T17:30:41.040Z,"15 km S of Indios, Puerto Rico",earthquake,1.8,2.0,0.062,34.0,reviewed,us,us
 2022-04-23T17:21:27.580Z,17.9421666666667,-66.8393333333333,12.32,2.88,md,31.0,178.0,,0.22,pr,pr71345608,2022-04-23T17:40:31.430Z,"6 km SSW of Indios, Puerto Rico",earthquake,0.43,0.3,0.115799223721451,17.0,reviewed,pr,pr
+2022-04-23T17:59:23.790Z,19.1626663208008,-155.481170654297,35.7099990844727,1.91999996,md,34.0,109.0,,0.119999997,hv,hv72993462,2022-04-23T18:03:39.640Z,"4 km S of Pāhala, Hawaii",earthquake,0.52,0.699999988,0.560000002,9.0,automatic,hv,hv
+2022-04-23T17:44:56.610Z,17.9388,-66.8393,10.0,3.46,md,22.0,180.0,0.0539,0.23,pr,pr2022113001,2022-04-23T18:10:19.232Z,"6 km SSW of Indios, Puerto Rico",earthquake,0.51,0.58,0.24,15.0,reviewed,pr,pr
+2022-04-23T17:31:39.260Z,17.9425,-66.8395,13.07,2.39,md,6.0,217.0,,0.17,pr,pr71345618,2022-04-23T17:59:05.110Z,"6 km SSW of Indios, Puerto Rico",earthquake,1.33,0.66,0.0067215103397917,4.0,reviewed,pr,pr
