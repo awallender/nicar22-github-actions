@@ -14350,3 +14350,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-25T05:54:40.790Z,33.4196667,-116.61,5.61,0.43,ml,19.0,69.0,0.07512,0.09,ci,ci40245480,2022-04-25T05:58:17.098Z,"15km N of Warner Springs, CA",earthquake,0.22,0.57,0.148,11.0,automatic,ci,ci
 2022-04-25T05:45:07.420Z,18.218,-66.8375,13.67,2.99,md,31.0,51.0,,0.28,pr,pr71345973,2022-04-25T06:08:39.050Z,"9 km SSE of Lares, Puerto Rico",earthquake,0.29,0.39,0.140125189563571,15.0,reviewed,pr,pr
 2022-04-25T05:35:50.220Z,46.0107,152.8139,10.0,5.2,mww,,50.0,7.006,0.6,us,us6000hg6f,2022-04-25T05:55:37.040Z,Kuril Islands,earthquake,8.2,1.8,0.098,10.0,reviewed,us,us
+2022-04-25T06:23:07.081Z,62.3487,-150.1558,18.8,1.1,ml,,,,0.19,ak,ak0225aaigfo,2022-04-25T06:39:51.070Z,"3 km NW of Talkeetna, Alaska",earthquake,,0.4,,,automatic,ak,ak
