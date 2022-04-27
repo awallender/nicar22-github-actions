@@ -14933,3 +14933,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-27T10:53:40.390Z,33.2508333,-115.5596667,8.3,1.39,ml,8.0,288.0,0.08567,0.22,ci,ci40246840,2022-04-27T10:57:14.521Z,"4km WNW of Niland, CA",earthquake,2.14,1.47,0.255,17.0,automatic,ci,ci
 2022-04-27T11:33:17.662Z,60.0674,-141.7802,6.9,1.4,ml,,,,0.82,ak,ak0225domhfr,2022-04-27T11:36:33.246Z,"128 km WNW of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-04-27T11:23:43.819Z,60.1136,-141.7389,0.0,1.1,ml,,,,0.57,ak,ak0225doke93,2022-04-27T11:29:00.154Z,"129 km WNW of Yakutat, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-04-27T10:34:32.860Z,18.0231,-66.749,15.0,3.3,md,24.0,127.0,0.1388,0.2,pr,pr2022117000,2022-04-27T11:44:05.141Z,Puerto Rico region,earthquake,0.32,0.41,0.17,13.0,reviewed,pr,pr
