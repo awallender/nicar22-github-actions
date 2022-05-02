@@ -16305,3 +16305,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-02T05:37:41.480Z,35.943,-117.6723333,5.01,0.63,ml,11.0,74.0,0.01847,0.07,ci,ci40250144,2022-05-02T17:38:50.174Z,"21km E of Little Lake, CA",earthquake,0.2,0.36,0.195,5.0,reviewed,ci,ci
 2022-05-01T22:54:07.429Z,36.88233333,-98.03666667,5.89,1.75,ml,58.0,100.0,0.1205763388,0.26,ok,ok2022imzs,2022-05-02T17:37:12.061Z,"10 km W of Wakita, Oklahoma",earthquake,,0.6,,24.0,reviewed,ok,ok
 2022-05-01T21:58:11.000Z,44.886,-111.4883333,12.7,0.62,ml,9.0,240.0,0.069,0.12,mb,mb80544644,2022-05-02T17:40:59.020Z,"26 km WNW of Hebgen Lake Estates, Montana",earthquake,1.45,0.42,0.208,5.0,reviewed,mb,mb
+2022-05-02T17:55:37.600Z,36.2001667,-118.1905,2.7,1.58,ml,20.0,81.0,0.2553,0.15,ci,ci40250584,2022-05-02T17:59:25.683Z,"19km WSW of Olancha, CA",earthquake,0.23,1.34,0.113,20.0,automatic,ci,ci
+2022-05-02T16:53:10.750Z,35.3513333,-117.5476667,5.7,0.29,ml,6.0,106.0,0.1686,0.08,ci,ci40250520,2022-05-02T18:06:25.612Z,"8km ESE of Johannesburg, CA",earthquake,0.24,1.43,0.098,2.0,reviewed,ci,ci
