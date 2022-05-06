@@ -234,6 +234,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-05T11:47:23.090Z,33.6516667,-116.7196667,14.11,0.46,ml,20,85,0.05952,0.07,ci,ci40252752,2022-05-05T13:00:19.796Z,"10km S of Idyllwild, CA",earthquake,0.22,0.35,0.255,11,reviewed,ci,ci
 2022-05-05T11:47:00.970Z,33.6563333,-116.7283333,15.78,0.04,ml,18,74,0.04718,0.15,ci,ci37497485,2022-05-05T14:07:26.879Z,"9km S of Idyllwild, CA",earthquake,0.42,0.65,0.154,6,reviewed,ci,ci
 2022-05-05T11:46:49.470Z,33.648,-116.722,14.55,0.47,ml,27,57,0.04529,0.13,ci,ci40252744,2022-05-05T13:45:12.887Z,"10km S of Idyllwild, CA",earthquake,0.21,0.37,0.211,5,reviewed,ci,ci
-2022-05-05T11:44:34.899Z,38.1985,-117.8453,8.9,1.2,ml,16,114.74,0.108,0.1477,nn,nn00838382,2022-05-05T17:11:46.525Z,"31 km SE of Mina, Nevada",earthquake,,2.3,0.22,4,reviewed,nn,nn
-2022-05-05T11:43:57.430Z,33.2418333,-116.6576667,11.35,0.34,ml,29,80,0.04345,0.15,ci,ci40252736,2022-05-05T18:26:09.105Z,"5km SSW of Warner Springs, CA",earthquake,0.23,0.47,0.09,5,reviewed,ci,ci
-2022-05-05T11:38:02.520Z,32.9281667,-115.817,7.9,1.27,ml,37,44,0.02218,0.19,ci,ci40252720,2022-05-05T18:16:04.391Z,"22km WSW of Westmorland, CA",earthquake,0.22,0.54,0.189,20,reviewed,ci,ci
