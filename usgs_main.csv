@@ -19344,3 +19344,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-14T14:22:42.030Z,60.7901,-151.2065,65.5,3.7,ml,,,,0.72,ak,ak02265uhdnr,2022-05-14T14:24:28.119Z,"11 km NNE of Nikiski, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-05-14T14:22:18.390Z,35.6673317,-117.4925003,3.86,1.28,ml,17.0,84.0,0.08435,0.11,ci,ci40018551,2022-05-14T14:24:23.437Z,"14km SW of Searles Valley, CA",earthquake,0.31,1.25,0.237,4.0,automatic,ci,ci
 2022-05-14T14:16:05.057Z,61.5759,-150.058,35.9,1.1,ml,,,,0.47,ak,ak02265ug0hr,2022-05-14T14:23:16.003Z,"8 km NW of Big Lake, Alaska",earthquake,,5.2,,,automatic,ak,ak
+2022-05-14T14:24:46.830Z,37.4901657,-122.3186646,12.19,2.01,md,36.0,90.0,0.0538,0.08,nc,nc73733651,2022-05-14T14:29:10.773Z,"4km SSE of Highlands-Baywood Park, CA",earthquake,0.29,0.8,0.19,33.0,automatic,nc,nc
