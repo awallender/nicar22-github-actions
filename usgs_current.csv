@@ -125,7 +125,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-03T01:40:30.200Z,19.453,-155.595333333333,-1.12,1.48,md,8,81,,0.12,hv,hv73096137,2022-08-03T02:22:07.200Z,"28 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.28,0.22,0.221317469271852,5,reviewed,hv,hv
 2022-08-03T01:34:27.620Z,38.8241653,-122.7996674,2.62,0.7,md,13,67,0.008165,0.02,nc,nc73763375,2022-08-03T01:51:16.481Z,"6km NW of The Geysers, CA",earthquake,0.33,0.72,0.14,2,automatic,nc,nc
 2022-08-03T01:34:22.683Z,36.696,-116.3592,11.9,0,ml,9,207.5,0.053,0.0674,nn,nn00844055,2022-08-03T01:37:13.879Z,"42 km ESE of Beatty, Nevada",earthquake,,3,0.15,5,automatic,nn,nn
-2022-08-03T01:32:49.670Z,19.4608333333333,-155.596166666667,-1,1.58,md,10,79,,0.14,hv,hv73096122,2022-08-03T06:13:58.310Z,"Island of Hawaii, Hawaii",earthquake,0.4,0.22,0.105258925979138,6,reviewed,hv,hv
+2022-08-03T01:32:49.670Z,19.4608333333333,-155.596166666667,-1,1.58,md,10,79,,0.14,hv,hv73096122,2022-08-03T06:13:58.310Z,"28 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.4,0.22,0.105258925979138,6,reviewed,hv,hv
 2022-08-03T01:32:00.640Z,17.9815,-66.7275,10.54,2.46,md,19,152,,0.12,pr,pr71362228,2022-08-03T02:02:53.230Z,"1 km SW of Tallaboa, Puerto Rico",earthquake,0.32,0.56,0.187350958018706,12,reviewed,pr,pr
 2022-08-03T01:31:11.657Z,36.7099,-116.3355,8.8,1.6,ml,24,68.58,0.063,0.2411,nn,nn00844053,2022-08-03T01:34:24.384Z,"43 km ESE of Beatty, Nevada",earthquake,,0.6,0.93,16,automatic,nn,nn
 2022-08-03T01:29:27.384Z,38.1997,-117.7453,2.9,1.8,ml,9,181.47,0.126,0.204,nn,nn00844051,2022-08-03T01:33:13.911Z,"38 km SE of Mina, Nevada",earthquake,,1.1,0.82,5,automatic,nn,nn
@@ -143,7 +143,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-03T00:16:15.390Z,40.3006668,-124.5394974,9.7,2.31,md,11,283,0.1963,0.13,nc,nc73763345,2022-08-03T03:46:10.282Z,"22km W of Petrolia, CA",earthquake,3.43,1.34,0.05,7,automatic,nc,nc
 2022-08-03T00:13:00.060Z,38.8359985,-122.8079987,2.39,1.04,md,15,56,0.01269,0.03,nc,nc73763335,2022-08-03T00:31:14.977Z,"8km WNW of Cobb, CA",earthquake,0.3,0.92,0.15,2,automatic,nc,nc
 2022-08-03T00:07:43.880Z,35.9568333,-117.6725,6.04,0.54,ml,8,110,0.0612,0.08,ci,ci40074071,2022-08-03T00:11:07.621Z,"21km E of Little Lake, CA",earthquake,0.31,0.8,0.152,4,automatic,ci,ci
-2022-08-03T00:01:20.280Z,38.7778333,-122.7141667,2.14,0.21,md,19,53,0.01447,0.03,nc,nc73763330,2022-08-03T10:35:23.798Z,"2km W of Anderson Springs, CA",earthquake,0.23,0.28,0.075,6,reviewed,nc,nc
+2022-08-03T00:01:20.280Z,38.7778333,-122.7141667,2.14,0.21,md,19,53,0.01447,0.03,nc,nc73763330,2022-08-03T10:44:10.859Z,"2km W of Anderson Springs, CA",earthquake,0.23,0.28,0.075,6,reviewed,nc,nc
 2022-08-02T23:57:03.598Z,61.5113,-150.2816,43.6,1.2,ml,,,,0.53,ak,ak0229ub1gon,2022-08-02T23:58:33.909Z,"12 km ESE of Susitna, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-08-02T23:47:14.452Z,37.3214,141.076,53.726,4.2,mwr,78,111,2.425,0.45,us,us6000i7ld,2022-08-03T02:11:15.602Z,"19 km SSE of Namie, Japan",earthquake,9,6.048,0.078,16,reviewed,us,us
 2022-08-02T23:47:07.628Z,35.11097717,-96.0062561,6.149417877,1.88,ml,13,147.495697,0.1886271983,0.8113304112,ok,ok2022pazg,2022-08-02T23:49:45.737Z,"11 km E of Lamar, Oklahoma",earthquake,5.217844863,4.771708155,,10,automatic,ok,ok
@@ -307,4 +307,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-02T11:00:43.950Z,38.8139992,-122.8136673,2.56,0.84,md,14,88,0.009793,0.02,nc,nc73763020,2022-08-02T12:47:11.664Z,"6km NW of The Geysers, CA",earthquake,0.33,0.67,,1,automatic,nc,nc
 2022-08-02T10:59:14.820Z,38.8146667,-122.8143311,2.77,0.74,md,15,55,0.009328,0.01,nc,nc73763015,2022-08-02T12:19:10.485Z,"6km NW of The Geysers, CA",earthquake,0.34,0.63,0.1,2,automatic,nc,nc
 2022-08-02T10:59:02.039Z,38.1511,-117.8976,9.6,1.2,ml,18,124.92,0.05,0.0966,nn,nn00843981,2022-08-02T19:44:49.370Z,"32 km SE of Mina, Nevada",earthquake,,0.9,0.5,5,reviewed,nn,nn
-2022-08-02T10:45:28.260Z,17.9658333333333,-66.6913333333333,12.66,2.36,md,10,216,,0.12,pr,pr71362133,2022-08-02T11:04:30.280Z,"4 km SE of Tallaboa, Puerto Rico",earthquake,1.04,0.39,0.238992515317962,6,reviewed,pr,pr
