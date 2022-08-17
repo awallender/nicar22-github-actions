@@ -18,6 +18,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-17T21:23:25.953Z,51.8815,-173.2198,30.055,3.5,ml,21,204,0.67,0.42,us,us6000ibqz,2022-08-17T23:18:57.040Z,"75 km ESE of Atka, Alaska",earthquake,5.67,14.692,0.077,22,reviewed,us,us
 2022-08-17T21:19:22.360Z,44.7828333,-110.804,4.23,0.52,md,7,207,0.03357,0.14,uu,uu60510262,2022-08-17T21:58:50.430Z,"23 km SSW of Mammoth, Wyoming",earthquake,0.76,0.68,0.184,5,reviewed,uu,uu
 2022-08-17T21:16:55.764Z,63.4186,-147.7338,85.9,1.6,ml,,,,0.53,ak,ak022aj2o4js,2022-08-17T21:19:04.548Z,"60 km E of Cantwell, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2022-08-17T21:08:51.280Z,33.6006667,-118.2453333,3.22,2.26,ml,24,108,0.1188,0.2,ci,ci40327344,2022-08-17T23:46:33.864Z,"16km SSE of San Pedro, CA",earthquake,0.37,0.55,0.148,92,reviewed,ci,ci
+2022-08-17T20:48:27.090Z,31.5611667,-115.7045,7.58,2.55,ml,9,125,0.1824,0.05,ci,ci40327320,2022-08-17T23:40:40.831Z,"83km ESE of Maneadero, B.C., MX",earthquake,0.28,0.81,0.138,18,reviewed,ci,ci
 2022-08-17T20:32:33.960Z,39.4315,-110.306,-1.54,1.56,ml,8,181,0.01654,0.12,uu,uu60510257,2022-08-17T21:04:22.140Z,"15 km SSE of Sunnyside, Utah",earthquake,1.05,0.59,0.119,4,reviewed,uu,uu
 2022-08-17T20:25:31.680Z,36.6378326,-121.0958328,6.41,1.42,md,6,149,0.07455,0.13,nc,nc73769175,2022-08-17T22:56:11.311Z,"12km NNE of Pinnacles, CA",earthquake,1.23,3.73,0.17,5,automatic,nc,nc
 2022-08-17T20:22:58.080Z,37.2451668,-122.1566696,9.48,1.36,md,9,132,0.05725,0.14,nc,nc73769170,2022-08-17T22:30:10.169Z,"12km W of Saratoga, CA",earthquake,0.89,1.75,0.06,9,automatic,nc,nc
