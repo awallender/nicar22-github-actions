@@ -237,6 +237,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-04T21:07:33.420Z,17.9803,-66.893,20,1.98,md,3,193,0.0147,0.28,pr,pr2022247003,2022-09-05T09:20:04.178Z,"0 km WNW of Maria Antonia, Puerto Rico",earthquake,9.97,2.38,0,1,reviewed,pr,pr
 2022-09-04T21:06:09.790Z,34.8076667,-120.3391667,0.95,1.41,ml,16,65,0.08693,0.2,ci,ci40096215,2022-09-04T21:09:45.631Z,"9km NW of Los Alamos, CA",earthquake,0.51,31.61,0.101,14,automatic,ci,ci
 2022-09-04T20:51:12.500Z,38.8428345,-122.8253326,2.07,1.13,md,22,95,0.008992,0.02,nc,nc73775485,2022-09-04T21:07:14.679Z,"9km WNW of Cobb, CA",earthquake,0.22,0.44,0.08,4,automatic,nc,nc
-2022-09-04T20:36:13.940Z,36.5685,-121.1201667,9.77,1.98,md,9,133,0.05261,0.05,nc,nc71128999,2022-09-05T18:28:13.404Z,"5km NNE of Pinnacles, CA",earthquake,0.54,0.58,0.127,9,reviewed,nc,nc
-2022-09-04T20:35:59.910Z,36.5683333,-121.1246667,9.36,2.22,md,50,107,0.04901,0.1,nc,nc73775480,2022-09-05T18:01:13.240Z,"4km NNE of Pinnacles, CA",earthquake,0.17,0.31,0.287,57,reviewed,nc,nc
-2022-09-04T20:32:05.750Z,36.5661667,-121.1366667,10.39,2.53,md,58,49,0.03962,0.07,nc,nc73775475,2022-09-05T12:53:13.315Z,"4km N of Pinnacles, CA",earthquake,0.12,0.19,0.139,90,reviewed,nc,nc
