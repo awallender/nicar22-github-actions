@@ -103,7 +103,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-22T23:56:33.790Z,19.2268333435059,-155.392669677734,33,2.18,ml,34,163,,0.170000002,hv,hv73148672,2022-09-23T00:02:07.100Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.7,0.970000029,5.24,3,automatic,hv,hv
 2022-09-22T23:56:29.250Z,19.3173333333333,-155.249,4.18,2.29,md,32,94,,0.13,hv,hv73148667,2022-09-23T00:29:27.050Z,"13 km S of Volcano, Hawaii",earthquake,0.25,1.13,0.186398433589571,10,reviewed,hv,hv
 2022-09-22T23:56:22.420Z,47.1025,-123.06516666666667,18.87,0.8,ml,10,92,0.07164,0.15,uw,uw61873872,2022-09-23T02:25:49.780Z,"12 km SSE of Shelton, Washington",earthquake,0.61,1.04,0.08981643009973261,6,reviewed,uw,uw
-2022-09-22T23:52:58.311Z,35.9341,70.908,122.258,4.4,mb,22,80,2.065,0.95,us,us7000iabv,2022-09-23T00:15:17.040Z,"56 km N of Pārūn, Afghanistan",earthquake,7.14,11.622,0.179,9,reviewed,us,us
+2022-09-22T23:52:58.311Z,35.9341,70.908,122.258,4.4,mb,22,80,2.065,0.95,us,us7000iabv,2022-09-23T00:15:17.040Z,"Hindu Kush region, Afghanistan",earthquake,7.14,11.622,0.179,9,reviewed,us,us
 2022-09-22T23:51:34.287Z,64.0111,-148.794,4.9,1.5,ml,,,,0.53,ak,ak022c6nexxw,2022-09-22T23:53:29.181Z,"15 km E of Ferry, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-09-22T23:13:00.110Z,51.8585,-177.813666666667,7.44,1.17,ml,4,250,,0.04,av,av91683616,2022-09-23T01:27:07.610Z,"81 km W of Adak, Alaska",earthquake,0.57,0.68,0.186499195975507,4,reviewed,av,av
 2022-09-22T23:10:59.110Z,38.8066673,-122.7805023,1.14,0.65,md,12,65,0.006584,0.04,nc,nc73784821,2022-09-22T23:12:35.472Z,"4km NNW of The Geysers, CA",earthquake,0.28,0.56,0.19,3,automatic,nc,nc
@@ -313,4 +313,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-22T12:07:03.830Z,44.7786667,-110.7983333,3.49,0.27,md,8,201,0.03839,0.14,uu,uu60517522,2022-09-22T21:06:18.420Z,"23 km SSW of Mammoth, Wyoming",earthquake,0.67,1.41,0.196,5,reviewed,uu,uu
 2022-09-22T12:04:22.470Z,58.2991666666667,-154.9725,1.69,-0.07,ml,5,147,,0.08,av,av91071918,2022-09-23T00:22:52.670Z,"86 km NNW of Karluk, Alaska",earthquake,0.39,0.67,0.204371209653785,5,reviewed,av,av
 2022-09-22T12:03:34.130Z,44.7918333,-110.7965,4.69,-0.04,md,7,209,0.03861,0.16,uu,uu60517517,2022-09-22T21:04:40.520Z,"21 km SSW of Mammoth, Wyoming",earthquake,0.84,0.51,0.155,5,reviewed,uu,uu
-2022-09-22T11:48:22.955Z,62.1474,-152.1131,103.6,2,ml,,,,0.55,ak,ak022c6g92o9,2022-09-22T11:50:24.739Z,"41 km WNW of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
