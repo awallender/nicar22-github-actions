@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-12-09T11:05:07.820Z,34.5611667,-118.8121667,3.26,1.77,ml,47,38,0.09046,0.27,ci,ci40143975,2022-12-09T11:08:43.840Z,"16km N of Piru, CA",earthquake,0.35,1.9,0.144,26,automatic,ci,ci
+2022-12-09T11:05:07.820Z,34.5611667,-118.8121667,3.26,1.77,ml,47,38,0.09046,0.27,ci,ci40143975,2022-12-09T11:15:33.090Z,"16km N of Piru, CA",earthquake,0.35,1.9,0.144,26,automatic,ci,ci
 2022-12-09T10:52:53.517Z,63.0535,-148.0485,41.5,1.5,ml,,,,0.61,ak,ak022frflmg6,2022-12-09T10:55:41.842Z,"58 km SE of Cantwell, Alaska",earthquake,,2.8,,,automatic,ak,ak
 2022-12-09T10:51:21.410Z,34.065,-117.2513333,0.08,0.69,ml,18,110,0.2667,0.24,ci,ci40143967,2022-12-09T10:55:04.038Z,"2km NNE of Loma Linda, CA",earthquake,0.5,31.61,0.164,10,automatic,ci,ci
 2022-12-09T10:37:43.200Z,34.0978333,-117.0505,3.01,1.16,ml,31,88,0.04052,0.2,ci,ci40143959,2022-12-09T10:41:25.554Z,"7km N of Yucaipa, CA",earthquake,0.27,0.71,0.188,28,automatic,ci,ci
@@ -224,6 +224,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-08T11:37:06.867Z,41.9777,-119.55,0.9,1.1,ml,4,206.91,0.565,0.0683,nn,nn00852969,2022-12-09T02:41:02.058Z,"51 km ENE of Fort Bidwell, California",earthquake,,5,1.04,4,reviewed,nn,nn
 2022-12-08T11:29:13.690Z,19.4068336486816,-155.288665771484,1.0900000333786,1.73,ml,15,59,,0.0900000036,hv,hv73263922,2022-12-08T11:34:47.940Z,"6 km SW of Volcano, Hawaii",earthquake,0.19,0.189999998,0.16,3,automatic,hv,hv
 2022-12-08T11:27:35.952Z,31.68702887,-104.4851968,6.799975586,2.1,ml,34,55,0.02273841353,0.2,tx,tx2022xzxe,2022-12-08T20:16:00.880Z,"western Texas",earthquake,0.7834415056,0.6634984862,0,6,reviewed,tx,tx
-2022-12-08T11:21:36.569Z,-35.5352,-71.5352,78.994,4.4,mb,32,100,0.246,0.47,us,us6000j7vu,2022-12-08T14:39:18.040Z,"4 km W of San Clemente, Chile",earthquake,4.69,8.197,0.17,10,reviewed,us,us
-2022-12-08T11:18:51.660Z,19.3961658477783,-155.268997192383,10.1300001144409,1.78999996,md,18,64,,0.150000006,hv,hv73263907,2022-12-08T11:21:57.260Z,"6 km SW of Volcano, Hawaii",earthquake,0.47,0.610000014,0.360000014,5,automatic,hv,hv
-2022-12-08T11:13:19.360Z,39.1644,-120.2792,7.8,0.4,ml,11,108.63,0.127,0.1381,nn,nn00853015,2022-12-09T02:42:48.435Z,"10 km W of Sunnyside-Tahoe City, California",earthquake,,2.3,0.28,4,reviewed,nn,nn
