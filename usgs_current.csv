@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-12-22T23:37:57.711Z,39.5358,-119.4718,1.1,1,ml,8,71,0.187,0.2455,nn,nn00854023,2022-12-22T23:41:42.324Z,"19 km SW of Wadsworth, Nevada",earthquake,,6.3,0.24,3,automatic,nn,nn
 2022-12-22T23:04:36.133Z,38.6139,-117.178,13.7,1.1,ml,9,206.48,0.679,0.3622,nn,nn00854012,2022-12-22T23:07:49.294Z,"Nevada",earthquake,,1.3,0.98,4,automatic,nn,nn
 2022-12-22T22:56:29.931Z,37.1718,-116.3035,14.1,1,ml,12,138.82,0.045,0.2898,nn,nn00854008,2022-12-22T22:58:30.355Z,"49 km NE of Beatty, Nevada",earthquake,,2.2,0.84,5,automatic,nn,nn
 2022-12-22T22:56:23.280Z,38.7978325,-122.7545013,3.84,1.05,md,16,93,0.004935,0.03,nc,nc73823341,2022-12-22T23:12:15.251Z,"2km N of The Geysers, CA",earthquake,0.32,0.73,0.24,16,automatic,nc,nc
@@ -24,10 +25,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-22T20:57:25.950Z,40.5279999,-124.3935013,17.15,2.01,md,9,305,0.222,0.07,nc,nc73823246,2022-12-22T21:12:12.537Z,"12km WSW of Ferndale, CA",earthquake,4.83,1.08,,1,automatic,nc,nc
 2022-12-22T20:52:19.320Z,19.1883335113525,-155.464828491211,35.1800003051758,1.99000001,md,20,103,,0.100000001,hv,hv73278562,2022-12-22T20:55:28.370Z,"2 km SE of Pāhala, Hawaii",earthquake,0.65,1,2.03999996,4,automatic,hv,hv
 2022-12-22T20:43:59.970Z,17.9991666666667,-66.9365,10.71,2.17,md,6,141,0.05952,0.09,pr,pr71388583,2022-12-22T21:00:27.470Z,"Puerto Rico",earthquake,0.33,0.59,0.0413318483684182,5,reviewed,pr,pr
+2022-12-22T20:28:41.313Z,36.6866,-116.3307,7.4,-0.4,ml,5,122.52,0.027,0.1406,nn,nn00854021,2022-12-22T23:35:23.895Z,"45 km ESE of Beatty, Nevada",earthquake,,5.1,0,1,reviewed,nn,nn
 2022-12-22T20:27:42.923Z,60.004,-152.7435,93.1,1.9,ml,,,,0.44,ak,ak022gd3e3jo,2022-12-22T20:29:19.581Z,"56 km W of Happy Valley, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-12-22T19:51:27.560Z,60.1597,-152.7491,109.4,2.1,ml,,,,0.31,ak,ak022gd2xrxw,2022-12-22T19:52:59.598Z,"61 km W of Ninilchik, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-12-22T19:34:37.116Z,62.6542,-149.5893,57.3,2,ml,,,,0.5,ak,ak022gd2u5i7,2022-12-22T19:36:13.005Z,"34 km NE of Chase, Alaska",earthquake,,1.1,,,automatic,ak,ak
-2022-12-22T19:33:00.759Z,37.9996,-115.7884,2.2,0.2,ml,8,328,0.935,0.4499,nn,nn00853981,2022-12-22T19:35:36.667Z,"39 km N of Rachel, Nevada",earthquake,,20.4,0.91,4,automatic,nn,nn
 2022-12-22T19:28:26.880Z,33.0583333,-116.4363333,7.94,1.03,ml,25,84,0.01898,0.2,ci,ci40148959,2022-12-22T19:58:15.480Z,"16km E of Julian, CA",earthquake,0.26,0.71,0.152,12,reviewed,ci,ci
 2022-12-22T19:19:45.890Z,56.6668,-149.1488,0.8,3.3,ml,,,,0.84,ak,ak022gd2qyah,2022-12-22T20:28:57.645Z,"216 km ESE of Chiniak, Alaska",earthquake,,2.2,,,reviewed,ak,ak
 2022-12-22T19:10:10.960Z,40.5301666,-124.3974991,17.39,2.32,md,10,306,0.0712,0.07,nc,nc73823231,2022-12-22T21:42:12.715Z,"12km WSW of Ferndale, CA",earthquake,2.86,0.78,0.02,5,automatic,nc,nc
@@ -55,11 +56,13 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-22T16:17:03.460Z,33.6323333,-116.7041667,13.99,1.7,ml,71,38,0.04441,0.17,ci,ci40148879,2022-12-22T20:03:39.806Z,"9km NNW of Anza, CA",earthquake,0.13,0.22,0.197,53,reviewed,ci,ci
 2022-12-22T16:16:19.490Z,33.638,-116.699,13.73,1.01,ml,36,51,0.03731,0.1,ci,ci40148871,2022-12-22T18:06:07.660Z,"10km NNW of Anza, CA",earthquake,0.14,0.24,0.157,24,reviewed,ci,ci
 2022-12-22T16:12:59.120Z,19.2236671447754,-155.385665893555,32.1300010681152,2.03999996,md,33,152,,0.140000001,hv,hv73278342,2022-12-22T16:16:16.440Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.67,0.670000017,1.35000002,3,automatic,hv,hv
+2022-12-22T16:00:19.760Z,58.1911666666667,-155.291166666667,2.11,0.23,ml,5,145,,0.06,av,av91736231,2022-12-22T23:42:17.730Z,"85 km NW of Karluk, Alaska",earthquake,0.26,0.42,0.465628759895095,5,reviewed,av,av
 2022-12-22T15:51:43.830Z,60.431,-152.762166666667,11.52,-0.3,ml,7,178,,0.1,av,av91081578,2022-12-22T23:26:22.680Z,"73 km NW of Ninilchik, Alaska",earthquake,0.62,0.46,0.194629373736124,7,reviewed,av,av
 2022-12-22T15:50:47.667Z,-26.1619,-177.1583,57.076,4.9,mww,120,51,5.282,0.77,us,us6000jb3k,2022-12-22T17:05:07.040Z,"south of the Fiji Islands",earthquake,10.65,5.4,0.089,12,reviewed,us,us
 2022-12-22T15:45:16.413Z,59.896,-153.509,136.7,2.4,ml,,,,0.41,ak,ak022gd0ipmz,2022-12-22T19:28:59.040Z,"35 km ENE of Pedro Bay, Alaska",earthquake,,0.6,,,reviewed,ak,ak
 2022-12-22T15:33:57.417Z,62.2463,-152.3905,106.3,2,ml,,,,0.17,ak,ak022gd0g8xp,2022-12-22T15:36:12.068Z,"59 km WNW of Skwentna, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2022-12-22T15:31:18.860Z,19.228666305542,-155.391006469727,32.2299995422363,2,md,40,147,,0.140000001,hv,hv73278332,2022-12-22T19:12:30.040Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.63,0.819999993,1.12,13,automatic,hv,hv
+2022-12-22T15:25:50.270Z,58.2455,-154.9445,4.99,0.88,ml,4,194,,0.21,av,av91081583,2022-12-22T23:34:50.760Z,"Alaska Peninsula",earthquake,0.93,1.54,0.463892158219489,4,reviewed,av,av
 2022-12-22T15:20:36.760Z,40.4433327,-124.2521667,11.12,1.7,md,7,272,0.1037,0.19,nc,nc73823151,2022-12-22T16:57:13.013Z,"13km NNE of Petrolia, CA",earthquake,5.02,2.5,0.05,3,automatic,nc,nc
 2022-12-22T15:13:31.100Z,51.863,-177.9995,3.12,1.34,ml,5,108,,0.25,av,av91081573,2022-12-22T23:23:20.070Z,"94 km W of Adak, Alaska",earthquake,0.54,1.48,0.241220860975341,5,reviewed,av,av
 2022-12-22T15:13:11.700Z,51.8625,-177.999833333333,2.89,1.38,ml,5,108,,0.26,av,av91081568,2022-12-22T23:20:41.480Z,"94 km W of Adak, Alaska",earthquake,0.53,1.55,0.1907774853853,5,reviewed,av,av
