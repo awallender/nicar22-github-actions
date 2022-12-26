@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-12-26T03:41:35.010Z,33.1191667,-115.579,9.05,0.9,ml,9,200,0.002178,0.19,ci,ci40150071,2022-12-26T03:45:06.413Z,"6km W of Calipatria, CA",earthquake,1.26,1.51,0.211,8,automatic,ci,ci
+2022-12-26T03:40:17.360Z,19.4150009155273,-155.287002563477,2.59999990463257,1.75,md,10,136,,0.209999993,hv,hv73283142,2022-12-26T03:43:24.270Z,"6 km WSW of Volcano, Hawaii",earthquake,0.56,0.610000014,0.649999976,6,automatic,hv,hv
 2022-12-26T03:30:38.538Z,61.791,-149.9624,32.8,1.9,ml,,,,0.53,ak,ak022gjffr1p,2022-12-26T03:32:35.234Z,"6 km NE of Willow, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-12-26T03:30:00.660Z,37.6160011,-118.8730011,1.9,1.21,md,13,138,0.008519,0.02,nc,nc73825056,2022-12-26T03:38:10.689Z,"10km ESE of Mammoth Lakes, CA",earthquake,0.37,0.53,0.16,13,automatic,nc,nc
 2022-12-26T03:15:38.410Z,33.1515,-116.3841667,12.92,0.67,ml,19,69,0.1167,0.21,ci,ci40150063,2022-12-26T03:19:10.393Z,"12km S of Borrego Springs, CA",earthquake,0.46,1.06,0.068,6,automatic,ci,ci
@@ -220,5 +222,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-25T04:01:39.560Z,19.1908340454102,-155.0625,42.810001373291,2.21000004,md,11,275,,0.0900000036,hv,hv73281727,2022-12-25T04:04:54.650Z,"31 km SSE of Fern Forest, Hawaii",earthquake,3.24,1.97000003,1.10000002,3,automatic,hv,hv
 2022-12-25T03:57:09.000Z,18.9820003509521,-155.410507202148,33.7900009155273,2.1099999,md,35,224,,0.140000001,hv,hv73281722,2022-12-25T04:09:38.040Z,"20 km ESE of Naalehu, Hawaii",earthquake,0.66,1.13999999,1.96000004,10,automatic,hv,hv
 2022-12-25T03:57:08.180Z,19.4073333740234,-155.278671264648,-1.08000004291534,2.26999998,md,7,124,,0.349999994,hv,hv73281717,2022-12-25T04:00:08.120Z,"6 km SW of Volcano, Hawaii",earthquake,0.36,0.50999999,1.50999999,3,automatic,hv,hv
-2022-12-25T03:50:10.050Z,19.2466659545898,-155.399826049805,29.5499992370605,2.07999992,md,35,132,,0.150000006,hv,hv73281707,2022-12-25T03:53:32.200Z,"Island of Hawaii, Hawaii",earthquake,0.68,0.75,0.330000013,13,automatic,hv,hv
-2022-12-25T03:48:36.003Z,63.1285,-150.3429,96.9,1.9,ml,,,,0.35,ak,ak022ghs098w,2022-12-25T03:50:39.944Z,"73 km NNE of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
