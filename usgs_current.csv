@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-12-28T20:37:32.793Z,61.4598,-150.1689,16.5,2.6,ml,,,,0.74,ak,ak022gn0oaxr,2022-12-28T20:39:27.575Z,"13 km WSW of Big Lake, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-12-28T20:28:08.500Z,38.7963333,-122.7354965,0.97,0.76,md,12,100,0.01311,0.04,nc,nc73826066,2022-12-28T20:29:42.529Z,"3km NE of The Geysers, CA",earthquake,0.25,0.89,0.33,11,automatic,nc,nc
+2022-12-28T20:25:48.380Z,17.8441666666667,-66.9003333333333,11.56,1.76,md,5,302,0.1317,0.11,pr,pr71389443,2022-12-28T20:42:35.770Z,"14 km S of Guánica, Puerto Rico",earthquake,0.84,1.71,0.0928021894224347,4,reviewed,pr,pr
 2022-12-28T20:10:37.297Z,36.5846,-116.2422,4.2,0.8,ml,12,138.6,0.099,0.2285,nn,nn00854287,2022-12-28T20:12:57.190Z,"47 km NNW of Pahrump, Nevada",earthquake,,3.8,1.01,8,automatic,nn,nn
 2022-12-28T20:02:32.080Z,18.0651666666667,-67.1023333333333,19.24,2.61,md,9,126,0.0447,0.12,pr,pr71389428,2022-12-28T20:17:52.060Z,"2 km SSE of Monte Grande, Puerto Rico",earthquake,0.6,0.37,0.0970121277088629,5,reviewed,pr,pr
 2022-12-28T19:42:23.280Z,33.3628333,-116.2423333,10.52,1.17,ml,27,69,0.0563,0.25,ci,ci40150903,2022-12-28T19:45:56.886Z,"17km NE of Borrego Springs, CA",earthquake,0.37,0.79,0.146,26,automatic,ci,ci
@@ -172,4 +174,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-27T21:30:37.400Z,38.845665,-122.8166656,1.4,0.78,md,15,97,0.01039,0.02,nc,nc73825851,2022-12-27T21:48:13.348Z,"8km WNW of Cobb, CA",earthquake,0.27,0.58,0.2,18,automatic,nc,nc
 2022-12-27T21:21:58.490Z,36.9430008,-121.579834,13.05,1.35,md,8,151,0.05924,0.12,nc,nc73825846,2022-12-27T23:28:11.807Z,"7km S of Gilroy, CA",earthquake,1.4,1.21,0.22,9,automatic,nc,nc
 2022-12-27T20:55:48.810Z,19.261833190918,-155.384338378906,31.3199996948242,1.98000002,md,30,133,,0.119999997,hv,hv73284892,2022-12-27T20:59:05.830Z,"11 km ENE of Pāhala, Hawaii",earthquake,0.81,0.850000024,0.949999988,10,automatic,hv,hv
-2022-12-27T20:34:17.250Z,35.2086667,-118.6748333,6.11,1.91,ml,36,72,0.0251,0.19,ci,ci40150671,2022-12-27T20:45:15.690Z,"14km E of Arvin, CA",earthquake,0.27,0.74,0.17,25,automatic,ci,ci
