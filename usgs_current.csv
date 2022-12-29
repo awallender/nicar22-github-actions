@@ -202,4 +202,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-28T21:45:42.040Z,37.4824982,-121.6504974,10.37,1.65,md,16,71,0.005318,0.08,nc,nc73826101,2022-12-28T22:58:14.496Z,"20km NE of Alum Rock, CA",earthquake,0.35,0.71,0.05,11,automatic,nc,nc
 2022-12-28T21:41:37.603Z,60.1754,-152.5974,97.4,2,ml,,,,0.4,ak,ak022gn1alq8,2022-12-28T21:43:09.749Z,"53 km WNW of Ninilchik, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-12-28T21:36:43.240Z,38.7298333,-122.4198333,8.28,1.11,md,37,50,0.0704,0.14,nc,nc73826096,2022-12-29T07:19:11.540Z,"15km SE of Hidden Valley Lake, CA",earthquake,0.22,0.53,0.091,15,reviewed,nc,nc
-2022-12-28T21:26:02.150Z,33.662,-116.7551667,12.3,1.27,ml,43,42,0.05978,0.17,ci,ci40150919,2022-12-29T17:09:08.853Z,"9km SSW of Idyllwild, CA",earthquake,0.22,0.38,0.239,27,reviewed,ci,ci
