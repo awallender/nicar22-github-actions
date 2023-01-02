@@ -1,7 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-01-02T11:35:37.540Z,38.7876663,-122.7693329,1.61,1.39,md,29,80,,0.03,nc,nc73827931,2023-01-02T11:37:12.592Z,"2km NW of The Geysers, CA",earthquake,0.22,0.32,0.18,29,automatic,nc,nc
+2023-01-02T11:47:46.350Z,35.5046654,-118.3871689,9.62,1.01,ml,11,108,0.1729,0.07,ci,ci40152983,2023-01-02T11:49:52.087Z,"13km SE of Bodfish, CA",earthquake,0.36,1.39,0.125,4,automatic,ci,ci
+2023-01-02T11:35:37.540Z,38.7876663,-122.7693329,1.61,1.39,md,29,80,,0.03,nc,nc73827931,2023-01-02T11:49:10.168Z,"2km NW of The Geysers, CA",earthquake,0.22,0.32,0.18,29,automatic,nc,nc
 2023-01-02T11:33:08.270Z,35.539,-118.4748333,8.06,1.48,ml,21,37,0.1852,0.14,ci,ci40152975,2023-01-02T11:36:42.761Z,"6km SSE of Bodfish, CA",earthquake,0.22,1.41,0.171,22,automatic,ci,ci
 2023-01-02T11:28:08.970Z,34.3515,-116.9213333,2.46,0.9,ml,15,104,0.07775,0.2,ci,ci40152967,2023-01-02T11:31:38.373Z,"11km SSE of Lucerne Valley, CA",earthquake,0.42,0.89,0.151,12,automatic,ci,ci
+2023-01-02T11:24:09.382Z,-31.3641,-68.242,105.457,4.4,mb,40,120,0.419,0.55,us,us7000j1li,2023-01-02T11:42:53.040Z,"25 km ENE of San Martín, Argentina",earthquake,8.72,5.593,0.098,30,reviewed,us,us
+2023-01-02T11:24:04.950Z,17.9613333333333,-67.0046666666667,8.09,2.85,md,14,200,0.0385,0.19,pr,pr71390453,2023-01-02T11:48:58.740Z,"4 km ESE of La Parguera, Puerto Rico",earthquake,0.52,0.91,0.149448237893274,11,reviewed,pr,pr
 2023-01-02T11:23:05.738Z,61.615,-150.3801,35.8,2.1,ml,,,,0.69,ak,ak0233hrejx,2023-01-02T11:25:07.022Z,"10 km NE of Susitna, Alaska",earthquake,,2.8,,,automatic,ak,ak
 2023-01-02T11:13:12.360Z,38.8446655,-122.8806686,2.1,0.4,md,6,147,0.0105,0.01,nc,nc73827921,2023-01-02T11:31:13.048Z,"13km ENE of Cloverdale, CA",earthquake,0.4,1.42,0.25,9,automatic,nc,nc
 2023-01-02T10:57:53.640Z,19.1456666666667,-67.251,32.02,3.09,md,10,298,0.6875,0.41,pr,pr71390433,2023-01-02T11:25:18.980Z,"74 km NNW of San Antonio, Puerto Rico",earthquake,2.11,13.14,0.0402429122060095,6,reviewed,pr,pr
@@ -67,7 +70,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-02T04:09:42.810Z,18.2756666666667,-66.62,16.69,2.18,md,10,140,0.09788,0.27,pr,pr71390318,2023-01-02T05:02:03.900Z,"Puerto Rico region",earthquake,0.68,1.3,0.216753271404486,5,reviewed,pr,pr
 2023-01-02T04:07:31.179Z,38.098,-118.0502,9.1,0.9,ml,10,185.93,0.082,0.2419,nn,nn00854414,2023-01-02T04:10:28.554Z,"32 km S of Mina, Nevada",earthquake,,0.9,0.47,5,automatic,nn,nn
 2023-01-02T04:00:56.290Z,64.5991,-149.2391,17.1,1.4,ml,,,,0.4,ak,ak0233dgjr1,2023-01-02T04:02:52.051Z,"5 km W of Four Mile Road, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-01-02T03:58:05.210Z,37.3110008,-120.0270004,21.26,2.58,md,9,102,0.1372,0.16,nc,nc73827761,2023-01-02T04:19:10.372Z,"20km SSW of Mariposa, CA",earthquake,0.65,0.65,0.27,9,automatic,nc,nc
+2023-01-02T03:58:05.210Z,37.3110008,-120.0270004,21.26,2.58,md,9,102,0.1372,0.16,nc,nc73827761,2023-01-02T11:48:46.214Z,"20km SSW of Mariposa, CA",earthquake,0.65,0.65,0.27,9,automatic,nc,nc
 2023-01-02T03:49:14.840Z,38.803833,-122.8116684,0.9,0.64,md,9,73,0.01344,0.02,nc,nc73827756,2023-01-02T04:06:13.154Z,"6km WNW of The Geysers, CA",earthquake,0.3,0.86,0.21,11,automatic,nc,nc
 2023-01-02T03:25:17.180Z,33.171,-115.5653333,6.64,1.42,ml,5,317,0.4985,0.18,ci,ci40152895,2023-01-02T03:28:54.156Z,"7km NW of Calipatria, CA",earthquake,11.26,31.61,0.028,5,automatic,ci,ci
 2023-01-02T03:24:31.160Z,38.7651672,-122.7138367,2.38,1.07,md,7,173,0.009328,0.01,nc,nc73827751,2023-01-02T03:41:13.114Z,"2km WSW of Anderson Springs, CA",earthquake,0.87,1.22,0.09,6,automatic,nc,nc
@@ -192,4 +195,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-01T12:19:56.160Z,33.3975,-116.3715,5.78,0.86,ml,12,163,0.1335,0.18,ci,ci40152631,2023-01-01T12:23:33.099Z,"16km N of Borrego Springs, CA",earthquake,0.44,4.55,0.168,11,automatic,ci,ci
 2023-01-01T12:18:58.248Z,-23.0803,-68.9089,113.381,4.9,mb,48,79,0.685,0.9,us,us7000j1ew,2023-01-01T12:47:44.102Z,"Antofagasta, Chile",earthquake,5.41,5.217,0.096,34,reviewed,us,us
 2023-01-01T12:17:19.020Z,40.1445,-123.8001667,25.8,2.3,md,20,93,0.0398,0.11,nc,nc73827511,2023-01-02T06:17:12.272Z,"3km NE of Redway, CA",earthquake,0.47,0.49,0.166,29,reviewed,nc,nc
-2023-01-01T11:39:26.050Z,17.9998333333333,-66.826,14.82,2.25,md,15,165,0.05483,0.08,pr,pr71390218,2023-01-01T12:28:35.400Z,"0 km NW of Indios, Puerto Rico",earthquake,0.34,0.3,0.0606969605767933,10,reviewed,pr,pr
