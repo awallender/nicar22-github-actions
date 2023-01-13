@@ -204,5 +204,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-12T04:16:10.180Z,48.44083333333333,-120.33933333333333,3.78,1.36,ml,10,202,0.1476,0.26,uw,uw61902101,2023-01-12T05:46:41.930Z,"12 km WSW of Winthrop, Washington",earthquake,1.15,31.61,0.1452732557948253,9,reviewed,uw,uw
 2023-01-12T04:03:56.510Z,53.9185,-166.654333333333,3.39,-0.22,ml,5,146,,0.1,av,av91084188,2023-01-13T00:33:43.050Z,"8 km WNW of Dutch Harbor, Alaska",earthquake,0.39,1.96,0.261174124743234,5,reviewed,av,av
 2023-01-12T04:02:16.113Z,40.3812,-125.7807,10,2.9,ml,26,255,1.268,0.94,us,us7000j3tc,2023-01-12T21:59:36.045Z,"off the coast of Northern California",earthquake,3,2.022,0.049,54,reviewed,us,us
-2023-01-12T04:00:05.540Z,38.8361664,-122.7821655,1.83,1.29,md,16,70,0.006768,0.03,nc,nc73831206,2023-01-12T04:39:11.570Z,"5km WNW of Cobb, CA",earthquake,0.29,0.43,0.11,19,automatic,nc,nc
-2023-01-12T03:53:22.089Z,35.00316667,-97.657,5.65,1.8,ml,87,48,0.09988040006,0.39,ok,ok2023aukg,2023-01-12T14:15:15.506Z,"4 km SW of Dibble, Oklahoma",earthquake,,0.7,0.23,33,reviewed,ok,ok
