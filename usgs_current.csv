@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-02-02T04:21:35.600Z,38.8160019,-122.7624969,1.8,1.02,md,8,131,0.01447,0.01,nc,nc73840811,2023-02-02T04:32:11.547Z,"4km W of Cobb, CA",earthquake,0.45,0.67,0.11,8,automatic,nc,nc
+2023-02-02T04:43:41.445Z,63.2212,-150.6356,117.3,1.2,ml,,,,0.19,ak,ak0231indhs4,2023-02-02T04:46:08.383Z,"65 km ESE of Denali National Park, Alaska",earthquake,,1.6,,,automatic,ak,ak
+2023-02-02T04:35:29.250Z,38.8180008,-122.7841644,9.17,0.31,md,11,106,0.01327,0.07,nc,nc73840816,2023-02-02T04:46:10.657Z,"5km NNW of The Geysers, CA",earthquake,1.26,0.76,0.14,10,automatic,nc,nc
+2023-02-02T04:21:35.600Z,38.8160019,-122.7624969,1.8,1.02,md,8,131,0.01447,0.01,nc,nc73840811,2023-02-02T04:38:15.592Z,"4km W of Cobb, CA",earthquake,0.45,0.67,0.11,8,automatic,nc,nc
 2023-02-02T04:15:52.108Z,63.3232,-153.0882,7.8,1.8,ml,,,,1.16,ak,ak0231in7ip2,2023-02-02T04:18:59.049Z,"72 km WSW of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-02-02T03:58:11.231Z,58.2922,-155.1811,30.1,0.4,ml,,,,0.59,ak,ak0231imv7ib,2023-02-02T03:59:55.457Z,"Alaska Peninsula",earthquake,,0.4,,,automatic,ak,ak
 2023-02-02T03:47:20.570Z,38.8349991,-122.7836685,1.86,1.32,md,25,64,0.006227,0.02,nc,nc73840806,2023-02-02T04:19:15.452Z,"5km WNW of Cobb, CA",earthquake,0.2,0.31,0.14,25,automatic,nc,nc
@@ -8,7 +10,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-02T03:39:59.610Z,34.104,-116.377,7.68,2.06,ml,51,49,0.03623,0.22,ci,ci40165327,2023-02-02T03:50:48.400Z,"5km ESE of Yucca Valley, CA",earthquake,0.26,0.85,0.224,25,automatic,ci,ci
 2023-02-02T03:37:14.070Z,38.8173332,-122.807663,3.2,1.47,md,28,41,0.006339,0.02,nc,nc73840786,2023-02-02T03:59:18.326Z,"6km NW of The Geysers, CA",earthquake,0.21,0.43,0.16,30,automatic,nc,nc
 2023-02-02T03:22:26.530Z,38.8381653,-122.8379974,1.17,0.65,md,16,112,0.002006,0.03,nc,nc73840781,2023-02-02T03:48:16.256Z,"10km NW of The Geysers, CA",earthquake,0.24,0.41,0.38,15,automatic,nc,nc
-2023-02-02T03:12:53.890Z,38.8180008,-122.8083344,3.14,1.04,md,21,40,0.005555,0.01,nc,nc73840776,2023-02-02T03:37:16.327Z,"6km NW of The Geysers, CA",earthquake,0.27,0.64,0.18,23,automatic,nc,nc
+2023-02-02T03:12:53.890Z,38.8180008,-122.8083344,3.14,1.04,md,21,40,0.005555,0.01,nc,nc73840776,2023-02-02T04:38:10.592Z,"6km NW of The Geysers, CA",earthquake,0.27,0.64,0.18,23,automatic,nc,nc
 2023-02-02T03:10:59.210Z,34.2155,-116.8343333,4.51,1.37,ml,48,48,0.08547,0.17,ci,ci40165311,2023-02-02T03:21:38.090Z,"5km S of Big Bear City, CA",earthquake,0.2,0.99,0.179,28,automatic,ci,ci
 2023-02-02T02:35:03.724Z,63.1604,-151.3203,4.8,1.6,ml,,,,0.87,ak,ak0231im4tus,2023-02-02T02:37:23.778Z,"46 km SSE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-02-02T02:23:21.620Z,34.0555,-116.9796667,14.09,1.53,ml,42,63,0.05255,0.21,ci,ci40165303,2023-02-02T02:34:16.520Z,"6km ENE of Yucaipa, CA",earthquake,0.25,0.53,0.249,27,automatic,ci,ci
@@ -239,5 +241,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-01T05:25:59.975Z,39.1954,-119.7837,8,-0.2,ml,4,146.77,0.116,0.1181,nn,nn00855548,2023-02-01T19:15:45.483Z,"3 km NNW of Carson City, Nevada",earthquake,,8.1,0,1,reviewed,nn,nn
 2023-02-01T05:21:03.630Z,38.8474998,-122.8134995,1.28,1.09,md,22,57,0.0105,0.02,nc,nc73840406,2023-02-01T07:59:19.051Z,"8km WNW of Cobb, CA",earthquake,0.21,0.37,0.16,22,automatic,nc,nc
 2023-02-01T05:09:16.490Z,38.7980003,-122.751503,1.48,1.06,md,15,96,0.006929,0.03,nc,nc73840401,2023-02-01T05:33:18.188Z,"2km N of The Geysers, CA",earthquake,0.31,0.57,0.18,15,automatic,nc,nc
-2023-02-01T04:46:48.859Z,59.8556,-153.3146,132.4,2.1,ml,,,,0.5,ak,ak0231gzusy0,2023-02-01T04:49:33.654Z,"45 km E of Pedro Bay, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2023-02-01T04:44:27.810Z,56.8648333333333,-158.202833333333,2.23,0.81,ml,4,236,,0.18,av,av91086388,2023-02-01T19:22:56.350Z,"27 km ESE of Port Heiden, Alaska",earthquake,0.9,1.31,0.0299623639890503,3,reviewed,av,av
