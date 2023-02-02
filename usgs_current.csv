@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-02-02T07:43:35.810Z,38.7576675,-122.7259979,2.21,1.28,md,14,69,0.02338,0.04,nc,nc73840891,2023-02-02T07:45:12.069Z,"3km SE of The Geysers, CA",earthquake,0.33,0.64,0.19,17,automatic,nc,nc
+2023-02-02T07:43:35.810Z,38.7576675,-122.7259979,2.21,1.28,md,14,69,0.02338,0.04,nc,nc73840891,2023-02-02T07:53:11.710Z,"3km SE of The Geysers, CA",earthquake,0.33,0.64,0.19,17,automatic,nc,nc
 2023-02-02T07:23:36.530Z,33.0193333,-116.446,11.35,0.51,ml,16,100,0.05594,0.17,ci,ci40165407,2023-02-02T07:39:23.531Z,"16km ESE of Julian, CA",earthquake,0.38,0.72,0.053,6,automatic,ci,ci
 2023-02-02T07:20:14.130Z,33.0156667,-116.4441667,11.26,0.61,ml,13,105,0.05203,0.12,ci,ci40165399,2023-02-02T07:23:43.496Z,"16km ESE of Julian, CA",earthquake,0.33,0.54,0.11,9,automatic,ci,ci
 2023-02-02T07:16:49.060Z,33.0118333,-116.4513333,10,1.19,ml,37,48,0.05256,0.17,ci,ci40165391,2023-02-02T07:20:22.877Z,"16km ESE of Julian, CA",earthquake,0.23,0.53,0.233,26,automatic,ci,ci
@@ -242,4 +242,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-01T08:13:53.920Z,38.8429985,-122.4478302,8.35,2,md,15,80,0.03591,0.11,nc,nc73840451,2023-02-01T10:48:15.102Z,"10km ENE of Hidden Valley Lake, CA",earthquake,0.44,0.95,0.1,14,automatic,nc,nc
 2023-02-01T08:09:59.133Z,62.676,-149.0451,44.3,1.5,ml,,,,1.07,ak,ak0231h20mnd,2023-02-01T08:11:58.361Z,"59 km ENE of Chase, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-02-01T08:08:00.360Z,58.218,-155.197,3.51,-0.35,ml,7,126,,0.1,av,av91753771,2023-02-01T20:50:29.520Z,"84 km NNW of Karluk, Alaska",earthquake,0.29,0.7,0.118142320262387,7,reviewed,av,av
-2023-02-01T07:56:31.785Z,60.2225,-152.4776,100.8,2.7,ml,,,,0.43,ak,ak0231h1p7kg,2023-02-01T09:06:50.040Z,"Southern Alaska",earthquake,,0.5,,,automatic,ak,ak
