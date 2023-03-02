@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-03-02T15:40:22.185Z,61.8454,-150.8077,12.5,1.9,ml,,,,0.36,ak,ak0232t4yaju,2023-03-02T15:42:37.594Z,"34 km ESE of Skwentna, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-03-02T15:35:51.530Z,19.1660003662109,-155.459671020508,32.2999992370605,2,md,26,131,,0.119999997,hv,hv73332497,2023-03-02T15:39:03.950Z,"4 km SSE of Pāhala, Hawaii",earthquake,0.86,1.51999998,1.03999996,12,automatic,hv,hv
+2023-03-02T15:34:57.720Z,33.4871667,-116.7813333,3.08,1.68,ml,57,37,0.02974,0.21,ci,ci40420120,2023-03-02T15:45:56.570Z,"9km ENE of Aguanga, CA",earthquake,0.19,0.61,0.152,26,automatic,ci,ci
 2023-03-02T15:05:30.750Z,60.364,-141.3117,6.6,2.9,ml,,,,0.61,ak,ak0232t4qt5f,2023-03-02T15:07:35.313Z,"126 km NW of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-03-02T15:03:43.967Z,62.1743,-150.9344,10.5,1.6,ml,,,,0.41,ak,ak0232t4qeqn,2023-03-02T15:05:56.426Z,"31 km NE of Skwentna, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-03-02T14:42:32.880Z,35.9239998,-120.4716644,4.26,1.36,md,14,96,0.01795,0.1,nc,nc73854396,2023-03-02T14:59:18.096Z,"5km NW of Parkfield, CA",earthquake,0.41,0.86,0.05,5,automatic,nc,nc
