@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-03-06T05:02:30.809Z,60.6963,-146.7104,17.4,1.9,ml,,,,0.6,ak,ak0232zkx7xk,2023-03-06T05:04:14.810Z,"18 km S of Tatitlek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-03-06T04:55:39.046Z,63.4563,-151.2658,2,1.5,ml,,,,0.76,ak,ak0232zkn5ww,2023-03-06T04:57:54.755Z,"24 km ESE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-03-06T04:50:21.470Z,33.765,-116.929,10.69,0.51,ml,10,156,0.07784,0.18,ci,ci40421408,2023-03-06T04:53:46.223Z,"3km SE of San Jacinto, CA",earthquake,0.71,0.74,0.148,11,automatic,ci,ci
 2023-03-06T04:38:43.630Z,32.643,-115.7241667,9.92,1.95,ml,28,68,0.006583,0.26,ci,ci40421400,2023-03-06T04:49:26.770Z,"15km WNW of Progreso, B.C., MX",earthquake,0.66,0.94,0.164,26,automatic,ci,ci
@@ -190,6 +191,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-05T05:42:47.110Z,38.8131676,-122.8248367,1.84,0.76,md,7,89,0.005471,0.01,nc,nc73855561,2023-03-05T07:28:11.839Z,"7km NW of The Geysers, CA",earthquake,0.65,1.06,0.25,8,automatic,nc,nc
 2023-03-05T05:32:26.095Z,60.9926,-150.738,44.5,1.6,ml,,,,0.09,ak,ak0232xxkak1,2023-03-05T05:33:52.722Z,"8 km NNW of Point Possession, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2023-03-05T05:23:40.460Z,19.1928329467773,-155.384506225586,31,2.00999999,md,36,164,,0.119999997,hv,hv73333627,2023-03-05T05:26:59.650Z,"Island of Hawaii, Hawaii",earthquake,0.72,0.800000012,1.61000001,10,automatic,hv,hv
-2023-03-05T05:10:11.780Z,33.4041667,-116.3963333,4.52,2.12,ml,69,30,0.1214,0.22,ci,ci40421056,2023-03-05T05:21:32.940Z,"17km N of Borrego Springs, CA",earthquake,0.2,0.94,0.174,24,automatic,ci,ci
-2023-03-05T05:04:57.280Z,17.9678333333333,-66.338,3.75,2.43,md,10,181,0.22,0.24,pr,pr71398333,2023-03-05T05:20:01.540Z,"2 km SW of Las Ochenta, Puerto Rico",earthquake,0.65,0.73,0.173285032641991,3,reviewed,pr,pr
-2023-03-05T05:03:34.729Z,62.8872,-149.4618,61.4,1.7,ml,,,,0.45,ak,ak0232xxe3gg,2023-03-05T05:05:22.763Z,"58 km NE of Chase, Alaska",earthquake,,0.6,,,automatic,ak,ak
