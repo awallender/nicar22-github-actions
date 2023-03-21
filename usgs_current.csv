@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-03-21T04:47:40.205Z,65.1564,-148.9175,16.6,2.5,ml,,,,0.56,ak,ak0233odnnok,2023-03-21T04:49:35.571Z,"20 km E of Minto, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-03-21T04:17:36.117Z,63.4587,-151.1912,2.7,1.6,ml,,,,0.98,ak,ak0233odh7vv,2023-03-21T04:20:10.727Z,"28 km ESE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-03-21T04:16:24.720Z,34.121,-117.9581667,29.83,1.45,ml,12,115,0.1949,0.36,ci,ci40187807,2023-03-21T04:20:11.368Z,"3km NW of Irwindale, CA",earthquake,2.46,1.43,0.36,26,automatic,ci,ci
 2023-03-21T04:16:22.020Z,18.9581666666667,-67.1853333333333,14.87,3.28,md,11,283,0.4931,0.26,pr,pr71400968,2023-03-21T04:32:59.120Z,"Puerto Rico region",earthquake,1.01,1.78,0.0924219656223504,9,reviewed,pr,pr
@@ -261,4 +262,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-20T04:59:46.200Z,58.1773333333333,-155.321166666667,1.68,0.06,ml,9,167,,0.1,av,av91813051,2023-03-20T21:11:16.280Z,"85 km NW of Karluk, Alaska",earthquake,0.26,0.5,0.254209084014347,9,reviewed,av,av
 2023-03-20T04:59:30.340Z,38.833168,-122.7969971,1.92,1.21,md,17,180,0.01413,0.02,nc,nc73859600,2023-03-20T08:59:19.179Z,"6km W of Cobb, CA",earthquake,0.37,0.45,0.18,20,automatic,nc,nc
 2023-03-20T04:51:36.880Z,38.8431664,-122.8151703,1.16,1.47,md,23,77,0.01313,0.02,nc,nc73859595,2023-03-20T08:32:14.976Z,"8km WNW of Cobb, CA",earthquake,0.22,0.34,0.12,25,automatic,nc,nc
-2023-03-20T04:41:38.110Z,17.9023333333333,-66.8363333333333,10.34,2.37,md,6,232,0.08307,0.05,pr,pr71400893,2023-03-20T04:57:50.820Z,"Puerto Rico region",earthquake,0.65,0.78,0.0922749863313408,5,reviewed,pr,pr
