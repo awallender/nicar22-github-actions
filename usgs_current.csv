@@ -5,7 +5,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-22T15:18:49.522Z,-23.5608,-66.5151,211.935,5.3,mww,105,34,1.646,1.32,us,us7000jlxp,2023-03-22T15:37:21.040Z,"Jujuy, Argentina",earthquake,7.46,5.111,0.047,43,reviewed,us,us
 2023-03-22T15:01:58.121Z,61.6232,-148.1575,25.1,1.5,ml,,,,0.88,ak,ak0233q7gy9w,2023-03-22T15:04:07.687Z,"25 km SE of Chickaloon, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-03-22T14:54:47.634Z,62.1538,-145.5707,20,2.2,ml,,,,0.84,ak,ak0233q76ut7,2023-03-22T14:56:39.086Z,"5 km NNW of Glennallen, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-03-22T14:50:33.977Z,47.4002,6.8651,9.025,4.2,mb,34,87,0.84,0.96,us,us7000jlxj,2023-03-22T15:53:03.504Z,"France",earthquake,2.54,5.625,0.263,4,reviewed,us,us
+2023-03-22T14:50:33.977Z,47.4002,6.8651,9.025,4.2,mb,34,87,0.84,0.96,us,us7000jlxj,2023-03-22T16:05:35.544Z,"France",earthquake,2.54,5.625,0.263,4,reviewed,us,us
 2023-03-22T14:34:05.582Z,58.1888,-137.3575,16.6,3.9,ml,,,,0.74,ak,ak0233q72h6o,2023-03-22T15:22:51.422Z,"59 km W of Elfin Cove, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-03-22T14:24:02.470Z,33.6016667,-116.7268333,15.77,1.23,ml,27,64,0.03211,0.22,ci,ci40188303,2023-03-22T14:35:02.390Z,"7km NW of Anza, CA",earthquake,0.36,0.6,0.189,18,automatic,ci,ci
 2023-03-22T14:16:46.540Z,-30.2645,-177.3161,10,5.5,mb,53,67,1.129,0.96,us,us7000jlxe,2023-03-22T14:48:57.693Z,"Kermadec Islands, New Zealand",earthquake,8.17,1.879,0.047,159,reviewed,us,us
@@ -13,7 +13,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-22T14:00:34.681Z,59.9596,-151.8405,5.9,1.8,ml,,,,1.16,ak,ak0233q6v958,2023-03-22T14:02:25.474Z,"6 km WNW of Happy Valley, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-03-22T13:57:45.410Z,61.476,-151.6366,71,1.4,ml,,,,0.26,ak,ak0233q6m26l,2023-03-22T13:59:37.200Z,"47 km NW of Beluga, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-03-22T13:50:44.160Z,32.9821667,-115.5366667,7.86,2.3,ml,28,89,0.06763,0.29,ci,ci40188295,2023-03-22T14:01:44.020Z,"1km WNW of Brawley, CA",earthquake,0.43,1.09,0.2,26,automatic,ci,ci
-2023-03-22T13:30:01.670Z,38.8274994,-122.8036652,1.79,0.8,md,8,72,0.00647,0.02,nc,nc73860590,2023-03-22T15:13:10.006Z,"7km NW of The Geysers, CA",earthquake,0.41,0.94,0.19,10,automatic,nc,nc
+2023-03-22T13:30:01.670Z,38.8274994,-122.8036652,1.79,0.8,md,8,72,0.00647,0.02,nc,nc73860590,2023-03-22T16:01:13.248Z,"7km NW of The Geysers, CA",earthquake,0.41,0.94,0.19,10,automatic,nc,nc
 2023-03-22T13:04:53.350Z,38.8046684,-122.7716675,1.36,0.75,md,9,109,0.01018,0.02,nc,nc73860585,2023-03-22T13:28:14.324Z,"3km NNW of The Geysers, CA",earthquake,0.43,0.76,0.14,8,automatic,nc,nc
 2023-03-22T12:59:34.990Z,38.8349991,-122.8081665,2.04,0.77,md,7,121,0.01168,0.01,nc,nc73860580,2023-03-22T15:32:15.252Z,"8km W of Cobb, CA",earthquake,0.74,2.28,0.62,10,automatic,nc,nc
 2023-03-22T12:55:05.590Z,35.5108333,-118.4081667,11.35,1.06,ml,19,45,0.1608,0.22,ci,ci40188279,2023-03-22T12:58:49.674Z,"12km SE of Bodfish, CA",earthquake,0.38,1.48,0.121,10,automatic,ci,ci
@@ -64,7 +64,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-22T04:28:14.974Z,6.6979,126.0848,66.168,4.8,mb,44,142,0.623,0.65,us,us7000jlvr,2023-03-22T08:22:14.397Z,"Mindanao, Philippines",earthquake,8.82,7.426,0.091,37,reviewed,us,us
 2023-03-22T04:21:40.057Z,63.0977,-148.4396,65.9,1.7,ml,,,,0.46,ak,ak0233q11fjp,2023-03-22T04:23:33.203Z,"41 km SE of Cantwell, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-03-22T04:04:55.863Z,63.6786,-149.4583,115,1.6,ml,,,,0.17,ak,ak0233q0xtle,2023-03-22T04:06:37.412Z,"27 km WSW of Denali Park, Alaska",earthquake,,1.3,,,automatic,ak,ak
-2023-03-22T03:52:11.950Z,33.9031677,-118.3180008,12.77,1.99,ml,16,95,0.02007,0.33,ci,ci40188207,2023-03-22T14:15:47.885Z,"2km NNW of Gardena, CA",earthquake,1.13,1.14,0.276,24,automatic,ci,ci
+2023-03-22T03:52:11.950Z,33.9031677,-118.3180008,12.77,1.99,ml,16,95,0.02007,0.33,ci,ci40188207,2023-03-22T16:02:40.431Z,"2km NNW of Gardena, CA",earthquake,1.13,1.14,0.276,24,automatic,ci,ci
 2023-03-22T03:42:20.100Z,17.9253333333333,-66.0108333333333,12.27,2.58,md,6,234,0.09975,0.07,pr,pr71401068,2023-03-22T04:28:00.940Z,"Puerto Rico region",earthquake,0.75,0.46,0.0871542271470345,3,reviewed,pr,pr
 2023-03-22T03:40:24.492Z,62.1192,-150.3761,50.5,3.5,ml,,,,0.61,ak,ak0233q0k1av,2023-03-22T06:04:56.807Z,"Central Alaska",earthquake,,0.4,,,reviewed,ak,ak
 2023-03-22T03:28:32.470Z,33.4861667,-116.9211667,26.59,1.18,ml,15,147,0.1694,0.25,ci,ci40188199,2023-03-22T03:32:03.641Z,"7km NW of Aguanga, CA",earthquake,0.84,1.15,0.136,11,automatic,ci,ci
@@ -181,10 +181,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-21T16:20:10.580Z,19.1749992370605,-155.466339111328,34.0699996948242,1.76999998,md,25,160,,0.109999999,hv,hv73345607,2023-03-21T16:23:16.250Z,"3 km SSE of Pāhala, Hawaii",earthquake,0.78,1.12,0.879999995,3,automatic,hv,hv
 2023-03-21T16:15:24.716Z,51.8796,-178.0807,4.533,2.8,ml,14,108,0.044,0.52,us,us7000jln3,2023-03-21T17:12:37.040Z,"99 km W of Adak, Alaska",earthquake,1.73,3.359,0.097,14,reviewed,us,us
 2023-03-21T16:14:45.020Z,36.1288333,-118.0543333,2.8,1.28,ml,20,72,0.1619,0.17,ci,ci40187935,2023-03-21T18:15:31.567Z,"13km NW of Coso Junction, CA",earthquake,0.24,1.13,0.067,7,reviewed,ci,ci
-2023-03-21T16:07:02.555Z,61.0592,-150.2905,46.5,1.8,ml,,,,0.71,ak,ak0233okk7e6,2023-03-21T19:31:00.888Z,"26 km NE of Point Possession, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-03-21T16:04:25.790Z,34.0866667,-117.8338333,14.57,1.39,ml,31,114,0.02278,0.21,ci,ci40187927,2023-03-21T18:10:39.493Z,"2km SSE of Charter Oak, CA",earthquake,0.33,0.43,0.171,15,reviewed,ci,ci
-2023-03-21T16:01:49.770Z,38.492,-112.8406667,0.21,-1.04,md,6,108,0.025,0.08,uu,uu60032949,2023-03-21T16:24:59.370Z,"18 km NE of Milford, Utah",earthquake,0.45,31.61,0.029,2,reviewed,uu,uu
-2023-03-21T16:01:28.340Z,38.4905,-112.8376667,-0.3,-0.39,md,11,100,0.01362,0.09,uu,uu60534691,2023-03-21T16:19:18.010Z,"18 km NE of Milford, Utah",earthquake,0.23,0.17,0.243,3,reviewed,uu,uu
-2023-03-21T16:00:01.940Z,38.49,-112.8386667,-0.24,-0.73,md,9,100,0.01283,0.07,uu,uu60534686,2023-03-21T16:14:07.550Z,"18 km NE of Milford, Utah",earthquake,0.32,0.18,0.281,3,reviewed,uu,uu
-2023-03-21T15:59:26.530Z,58.3795,-154.8685,4.92,0.51,ml,14,109,,0.27,av,av91814521,2023-03-21T18:51:34.880Z,"93 km NNW of Karluk, Alaska",earthquake,0.51,1.19,0.261152496364249,14,reviewed,av,av
-2023-03-21T15:57:12.643Z,53.0839,172.3931,6.41,4.3,mb,68,166,1.093,0.72,us,us7000jln1,2023-03-21T16:43:32.040Z,"59 km WNW of Attu Station, Alaska",earthquake,8.73,5.904,0.071,56,reviewed,us,us
