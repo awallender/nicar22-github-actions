@@ -254,4 +254,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-06T15:51:36.580Z,38.8363342,-122.8031693,2.05,0.21,md,9,65,0.01023,0.01,nc,nc73868075,2023-04-06T18:00:14.345Z,"7km WNW of Cobb, CA",earthquake,0.41,1.61,0.1,9,automatic,nc,nc
 2023-04-06T15:46:01.070Z,39.1638333,-123.5938333,4.83,1.03,md,12,83,0.04888,0.07,nc,nc73868070,2023-04-07T05:54:04.870Z,"15km ESE of Navarro Head, CA",earthquake,0.25,0.61,0.223,10,reviewed,nc,nc
 2023-04-06T15:45:38.280Z,-27.4316,-71.1811,44.638,4.2,mb,39,169,0.738,0.99,us,us6000k2gx,2023-04-06T19:23:43.040Z,"84 km W of Copiapó, Chile",earthquake,3.73,9.705,0.263,4,reviewed,us,us
-2023-04-06T15:29:01.140Z,48.466833333333334,-121.72533333333334,4.21,0.33,md,3,189,0.08174,0.03,uw,uw61916456,2023-04-06T18:49:40.190Z,"Washington",earthquake,1.76,7.17,0.3059240399903438,3,reviewed,uw,uw
